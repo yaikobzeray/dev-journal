@@ -20,3 +20,9 @@ Reviewed PR feedback and revised the authentication module. Code review is under
 Organized the project board and closed stale issues. Good hygiene for the repo.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 02 January 2024 — Entry 3
+
+Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
