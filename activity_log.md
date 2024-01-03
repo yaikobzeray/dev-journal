@@ -32,3 +32,9 @@ Implemented custom Django middleware for request logging. Added timing headers t
 Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 03 January 2024 — Entry 2
+
+Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
