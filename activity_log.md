@@ -26,3 +26,9 @@ Organized the project board and closed stale issues. Good hygiene for the repo.
 Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 03 January 2024 — Entry 1
+
+Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
