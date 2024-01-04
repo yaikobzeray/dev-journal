@@ -38,3 +38,9 @@ Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-we
 Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 04 January 2024 — Entry 1
+
+Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
