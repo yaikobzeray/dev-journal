@@ -56,3 +56,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Configured Django caching with Redis. Cache invalidation on model save using signals.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 04 January 2024 — Entry 4
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
