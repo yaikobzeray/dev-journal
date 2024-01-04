@@ -50,3 +50,9 @@ Explored Django admin customization: list_display, list_filter, search_fields, a
 Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 04 January 2024 — Entry 3
+
+Configured Django caching with Redis. Cache invalidation on model save using signals.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
