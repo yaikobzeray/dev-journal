@@ -62,3 +62,9 @@ Configured Django caching with Redis. Cache invalidation on model save using sig
 Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 04 January 2024 — Entry 5
+
+Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
