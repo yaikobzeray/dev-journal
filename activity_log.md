@@ -68,3 +68,9 @@ Explored FastAPI's Lifespan context manager for startup/shutdown events (databas
 Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 05 January 2024 — Entry 1
+
+Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
