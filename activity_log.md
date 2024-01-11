@@ -98,3 +98,9 @@ Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 11 January 2024 — Entry 3
+
+Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
