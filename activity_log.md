@@ -86,3 +86,9 @@ Explored distroless base images for the Go binary. Zero extra packages = smaller
 Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 11 January 2024 — Entry 1
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
