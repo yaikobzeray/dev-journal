@@ -104,3 +104,9 @@ Set up gRPC reflection on the Go server. Makes it testable via grpcurl without k
 Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 12 January 2024 — Entry 1
+
+Explored Docker volumes for persistent PostgreSQL data across container restarts.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
