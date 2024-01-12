@@ -128,3 +128,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Researched DACH region tech companies for potential opportunities. Strong demand for full-stack developers.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 12 January 2024 — Entry 5
+
+Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
