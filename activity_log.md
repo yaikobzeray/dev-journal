@@ -116,3 +116,9 @@ Explored Docker volumes for persistent PostgreSQL data across container restarts
 Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 12 January 2024 — Entry 3
+
+Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
