@@ -110,3 +110,9 @@ Implemented debounce and throttle utility functions from scratch. Used debounce 
 Explored Docker volumes for persistent PostgreSQL data across container restarts.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 12 January 2024 — Entry 2
+
+Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
