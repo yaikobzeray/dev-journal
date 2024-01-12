@@ -122,3 +122,9 @@ Deployed cert-manager on GKE for automatic TLS certificate management using Let'
 Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 12 January 2024 — Entry 4
+
+Researched DACH region tech companies for potential opportunities. Strong demand for full-stack developers.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
