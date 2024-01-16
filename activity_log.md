@@ -164,3 +164,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Built a Flutter custom widget for animated loading skeletons. Reusable across the whole app.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 16 January 2024 — Entry 5
+
+Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
