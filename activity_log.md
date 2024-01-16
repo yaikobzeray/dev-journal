@@ -158,3 +158,9 @@ Implemented BLoC pattern in Flutter for state management. Event → State flow i
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 16 January 2024 — Entry 4
+
+Built a Flutter custom widget for animated loading skeletons. Reusable across the whole app.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
