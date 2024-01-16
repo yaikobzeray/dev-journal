@@ -152,3 +152,9 @@ Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycl
 Implemented BLoC pattern in Flutter for state management. Event → State flow is very predictable.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 16 January 2024 — Entry 3
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
