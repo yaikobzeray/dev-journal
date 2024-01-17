@@ -188,3 +188,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 17 January 2024 — Entry 4
+
+Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
