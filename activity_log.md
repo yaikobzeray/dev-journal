@@ -194,3 +194,9 @@ Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in
 Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 17 January 2024 — Entry 5
+
+Set up FastAPI dependency injection for DB sessions and auth. Clean pattern — much easier to test than Django's request object.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
