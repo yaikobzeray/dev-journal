@@ -182,3 +182,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 17 January 2024 — Entry 3
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
