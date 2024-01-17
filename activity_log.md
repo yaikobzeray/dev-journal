@@ -176,3 +176,9 @@ Implemented Django form validation with clean_<field> methods. Added custom vali
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 17 January 2024 — Entry 2
+
+Built a small fetch wrapper with retry logic and exponential backoff.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
