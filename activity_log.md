@@ -170,3 +170,9 @@ Built a Flutter custom widget for animated loading skeletons. Reusable across th
 Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 17 January 2024 — Entry 1
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
