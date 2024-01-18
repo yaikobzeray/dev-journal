@@ -206,3 +206,9 @@ Set up FastAPI dependency injection for DB sessions and auth. Clean pattern — 
 Organized the project board and closed stale issues. Good hygiene for the repo.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 18 January 2024 — Entry 2
+
+Configured Django CORS headers for the frontend. Used django-cors-headers to whitelist the React dev server.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
