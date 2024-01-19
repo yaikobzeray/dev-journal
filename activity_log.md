@@ -224,3 +224,9 @@ Reduced Django Docker image build time by 60% through better layer ordering and 
 Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 19 January 2024 — Entry 2
+
+Organized the project board and closed stale issues. Good hygiene for the repo.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
