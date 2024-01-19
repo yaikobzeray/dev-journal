@@ -218,3 +218,9 @@ Configured Django CORS headers for the frontend. Used django-cors-headers to whi
 Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 19 January 2024 — Entry 1
+
+Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
