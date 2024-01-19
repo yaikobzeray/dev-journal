@@ -230,3 +230,9 @@ Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boil
 Organized the project board and closed stale issues. Good hygiene for the repo.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 19 January 2024 — Entry 3
+
+Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
