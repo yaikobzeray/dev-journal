@@ -248,3 +248,9 @@ Implemented Django pagination using PageNumberPagination. Added custom page_size
 Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 22 January 2024 — Entry 3
+
+Wrote Django management command for data seeding. Makes onboarding new devs much easier.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
