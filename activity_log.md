@@ -242,3 +242,9 @@ Set up GitHub Actions workflow for CI: lint → test → Docker build → push t
 Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 22 January 2024 — Entry 2
+
+Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
