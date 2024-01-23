@@ -278,3 +278,9 @@ Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE node
 Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 23 January 2024 — Entry 4
+
+Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
