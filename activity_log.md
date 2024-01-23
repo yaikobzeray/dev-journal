@@ -284,3 +284,9 @@ Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boil
 Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 23 January 2024 — Entry 5
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
