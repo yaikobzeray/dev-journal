@@ -266,3 +266,9 @@ Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 Optimized Docker layer caching by copying requirements.txt before copying source code.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 23 January 2024 — Entry 2
+
+Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
