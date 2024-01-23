@@ -260,3 +260,9 @@ Wrote Django management command for data seeding. Makes onboarding new devs much
 Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 23 January 2024 — Entry 1
+
+Optimized Docker layer caching by copying requirements.txt before copying source code.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
