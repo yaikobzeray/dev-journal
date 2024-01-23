@@ -272,3 +272,9 @@ Optimized Docker layer caching by copying requirements.txt before copying source
 Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 23 January 2024 — Entry 3
+
+Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
