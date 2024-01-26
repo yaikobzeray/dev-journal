@@ -290,3 +290,9 @@ Set up GitHub Actions workflow for CI: lint → test → Docker build → push t
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 26 January 2024 — Entry 1
+
+Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
