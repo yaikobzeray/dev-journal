@@ -308,3 +308,9 @@ Configured FastAPI CORS middleware for the Flutter frontend.
 Explored Docker volumes for persistent PostgreSQL data across container restarts.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 26 January 2024 — Entry 4
+
+Wrote detailed documentation for the API endpoints. Future me will be grateful.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
