@@ -296,3 +296,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 26 January 2024 — Entry 2
+
+Configured FastAPI CORS middleware for the Flutter frontend.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
