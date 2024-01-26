@@ -302,3 +302,9 @@ Explored Terraform for GCP infrastructure as code. Much better than clicking thr
 Configured FastAPI CORS middleware for the Flutter frontend.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 26 January 2024 — Entry 3
+
+Explored Docker volumes for persistent PostgreSQL data across container restarts.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
