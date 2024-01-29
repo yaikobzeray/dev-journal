@@ -320,3 +320,9 @@ Wrote detailed documentation for the API endpoints. Future me will be grateful.
 Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Monday, 29 January 2024 — Entry 2
+
+Explored Flutter's ThemeData for consistent dark/light mode theming across the app.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
