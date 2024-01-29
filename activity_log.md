@@ -332,3 +332,9 @@ Explored Flutter's ThemeData for consistent dark/light mode theming across the a
 Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Monday, 29 January 2024 — Entry 4
+
+Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
