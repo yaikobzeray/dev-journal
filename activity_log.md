@@ -326,3 +326,9 @@ Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async suppo
 Explored Flutter's ThemeData for consistent dark/light mode theming across the app.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 29 January 2024 — Entry 3
+
+Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
