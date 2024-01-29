@@ -338,3 +338,9 @@ Learned Kubernetes resource requests vs limits. Always set both — prevents noi
 Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 29 January 2024 — Entry 5
+
+Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
