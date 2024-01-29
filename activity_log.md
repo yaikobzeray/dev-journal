@@ -314,3 +314,9 @@ Explored Docker volumes for persistent PostgreSQL data across container restarts
 Wrote detailed documentation for the API endpoints. Future me will be grateful.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 29 January 2024 — Entry 1
+
+Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
