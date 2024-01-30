@@ -356,3 +356,9 @@ Used Intersection Observer API for lazy-loading images. Native browser API — n
 Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 30 January 2024 — Entry 3
+
+Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
