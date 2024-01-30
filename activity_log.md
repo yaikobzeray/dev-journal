@@ -350,3 +350,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 30 January 2024 — Entry 2
+
+Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
