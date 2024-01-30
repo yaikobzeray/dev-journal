@@ -362,3 +362,9 @@ Debugged a Docker networking issue: services in different compose files couldn't
 Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 30 January 2024 — Entry 4
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
