@@ -386,3 +386,9 @@ Wrote integration tests for gRPC services using a test server and real client st
 Learned about Docker BuildKit: parallel layer building and improved caching.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 01 February 2024 — Entry 1
+
+Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
