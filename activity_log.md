@@ -392,3 +392,9 @@ Learned about Docker BuildKit: parallel layer building and improved caching.
 Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 01 February 2024 — Entry 2
+
+Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
