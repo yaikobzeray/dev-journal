@@ -404,3 +404,9 @@ Added JWT authentication to FastAPI using python-jose. Implemented access and re
 Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 02 February 2024 — Entry 2
+
+Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
