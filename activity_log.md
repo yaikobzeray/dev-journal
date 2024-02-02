@@ -398,3 +398,9 @@ Learned about gRPC load balancing strategies: client-side vs proxy-based. Using 
 Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 02 February 2024 — Entry 1
+
+Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
