@@ -410,3 +410,9 @@ Added flutter_secure_storage for sensitive token storage instead of SharedPrefer
 Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 06 February 2024 — Entry 1
+
+Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
