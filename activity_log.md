@@ -416,3 +416,9 @@ Set up GitHub Actions workflow for CI: lint → test → Docker build → push t
 Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 06 February 2024 — Entry 2
+
+Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
