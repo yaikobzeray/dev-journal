@@ -428,3 +428,9 @@ Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner proj
 Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 07 February 2024 — Entry 2
+
+Read about 12-factor app methodology. Applies well to both Django and Go services.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
