@@ -440,3 +440,9 @@ Read about 12-factor app methodology. Applies well to both Django and Go service
 Set up Django static files with WhiteNoise for production deployment. Much simpler than nginx just for static files.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 07 February 2024 — Entry 4
+
+Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
