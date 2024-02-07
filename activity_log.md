@@ -422,3 +422,9 @@ Configured Kubernetes liveness and readiness probes for all services. No more tr
 Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 07 February 2024 — Entry 1
+
+Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
