@@ -464,3 +464,9 @@ Set up Django with PostgreSQL — practiced database migrations and schema manag
 Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 08 February 2024 — Entry 4
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
