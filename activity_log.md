@@ -452,3 +452,9 @@ Configured Kubernetes liveness and readiness probes for all services. No more tr
 Wrote integration tests for gRPC services using a test server and real client stubs.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 08 February 2024 — Entry 2
+
+Set up Django with PostgreSQL — practiced database migrations and schema management.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
