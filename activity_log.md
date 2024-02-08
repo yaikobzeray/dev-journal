@@ -458,3 +458,9 @@ Wrote integration tests for gRPC services using a test server and real client st
 Set up Django with PostgreSQL — practiced database migrations and schema management.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 08 February 2024 — Entry 3
+
+Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
