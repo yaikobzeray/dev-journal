@@ -446,3 +446,9 @@ Set up Django static files with WhiteNoise for production deployment. Much simpl
 Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 08 February 2024 — Entry 1
+
+Wrote integration tests for gRPC services using a test server and real client stubs.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
