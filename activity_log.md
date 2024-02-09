@@ -476,3 +476,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 09 February 2024 — Entry 2
+
+Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
