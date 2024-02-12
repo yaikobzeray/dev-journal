@@ -500,3 +500,9 @@ Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 12 February 2024 — Entry 1
+
+Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
