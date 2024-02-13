@@ -512,3 +512,9 @@ Added JWT authentication to FastAPI using python-jose. Implemented access and re
 Set up FastAPI dependency injection for DB sessions and auth. Clean pattern — much easier to test than Django's request object.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 13 February 2024 — Entry 2
+
+Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
