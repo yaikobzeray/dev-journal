@@ -536,3 +536,9 @@ Set up dio HTTP client with interceptors for token refresh and error handling.
 Explored Web Workers for heavy JSON parsing off the main thread.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 14 February 2024 — Entry 4
+
+Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
