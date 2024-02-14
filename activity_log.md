@@ -524,3 +524,9 @@ Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Wednesday, 14 February 2024 — Entry 2
+
+Set up dio HTTP client with interceptors for token refresh and error handling.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
