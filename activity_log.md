@@ -518,3 +518,9 @@ Set up FastAPI dependency injection for DB sessions and auth. Clean pattern — 
 Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 14 February 2024 — Entry 1
+
+Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
