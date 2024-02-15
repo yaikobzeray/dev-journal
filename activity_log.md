@@ -542,3 +542,9 @@ Explored Web Workers for heavy JSON parsing off the main thread.
 Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 15 February 2024 — Entry 1
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
