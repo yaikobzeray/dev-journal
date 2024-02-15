@@ -548,3 +548,9 @@ Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager
 Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 15 February 2024 — Entry 2
+
+Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
