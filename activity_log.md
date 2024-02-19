@@ -572,3 +572,9 @@ Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 Added request/response middleware to FastAPI for logging and timing headers.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 19 February 2024 — Entry 2
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
