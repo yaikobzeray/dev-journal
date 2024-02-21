@@ -590,3 +590,9 @@ Explored Django admin customization: list_display, list_filter, search_fields, a
 Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 21 February 2024 — Entry 3
+
+Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
