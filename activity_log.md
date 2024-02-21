@@ -596,3 +596,9 @@ Learned Docker networking: bridge, host, overlay. Used bridge network for compos
 Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 21 February 2024 — Entry 4
+
+Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
