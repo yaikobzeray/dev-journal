@@ -578,3 +578,9 @@ Added request/response middleware to FastAPI for logging and timing headers.
 Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 21 February 2024 — Entry 1
+
+Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
