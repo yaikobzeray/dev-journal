@@ -602,3 +602,9 @@ Watched a talk on distributed systems fundamentals. CAP theorem explained clearl
 Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 22 February 2024 — Entry 1
+
+Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
