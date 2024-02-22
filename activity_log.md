@@ -608,3 +608,9 @@ Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge di
 Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Thursday, 22 February 2024 — Entry 2
+
+Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
