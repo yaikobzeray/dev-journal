@@ -620,3 +620,9 @@ Planned the next sprint: breaking down user stories into tasks. Good estimation 
 Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 23 February 2024 — Entry 1
+
+Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
