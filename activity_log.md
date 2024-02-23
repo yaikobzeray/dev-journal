@@ -626,3 +626,9 @@ Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 23 February 2024 — Entry 2
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
