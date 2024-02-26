@@ -632,3 +632,9 @@ Explored Flutter isolates for heavy computation off the main thread. Prevents UI
 Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 26 February 2024 — Entry 1
+
+Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
