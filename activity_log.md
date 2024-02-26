@@ -638,3 +638,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 26 February 2024 — Entry 2
+
+Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
