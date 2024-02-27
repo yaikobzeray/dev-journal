@@ -674,3 +674,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Wrote detailed documentation for the API endpoints. Future me will be grateful.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 27 February 2024 — Entry 5
+
+Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
