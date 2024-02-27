@@ -668,3 +668,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Tuesday, 27 February 2024 — Entry 4
+
+Wrote detailed documentation for the API endpoints. Future me will be grateful.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
