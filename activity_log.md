@@ -656,3 +656,9 @@ Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage q
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 27 February 2024 — Entry 2
+
+Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
