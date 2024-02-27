@@ -650,3 +650,9 @@ Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenA
 Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 27 February 2024 — Entry 1
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
