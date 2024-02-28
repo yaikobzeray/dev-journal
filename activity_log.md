@@ -680,3 +680,9 @@ Wrote detailed documentation for the API endpoints. Future me will be grateful.
 Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 28 February 2024 — Entry 1
+
+Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
