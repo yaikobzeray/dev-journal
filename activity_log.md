@@ -686,3 +686,9 @@ Explored Flutter isolates for heavy computation off the main thread. Prevents UI
 Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 28 February 2024 — Entry 2
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
