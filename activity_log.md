@@ -722,3 +722,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 29 February 2024 — Entry 4
+
+Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
