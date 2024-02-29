@@ -716,3 +716,9 @@ Explored JavaScript Proxy for reactive state management without a framework.
 Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 29 February 2024 — Entry 3
+
+Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
