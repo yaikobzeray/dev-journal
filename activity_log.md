@@ -728,3 +728,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 29 February 2024 — Entry 5
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
