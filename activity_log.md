@@ -710,3 +710,9 @@ Explored FastAPI background tasks for sending emails post-request. Keeps respons
 Explored JavaScript Proxy for reactive state management without a framework.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 29 February 2024 — Entry 2
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
