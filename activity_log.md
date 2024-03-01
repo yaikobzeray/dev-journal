@@ -734,3 +734,9 @@ Explored Terraform for GCP infrastructure as code. Much better than clicking thr
 Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 01 March 2024 — Entry 1
+
+Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycle management.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
