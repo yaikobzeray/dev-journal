@@ -746,3 +746,9 @@ Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycl
 Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Monday, 04 March 2024 — Entry 2
+
+Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
