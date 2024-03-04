@@ -740,3 +740,9 @@ Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in
 Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycle management.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 04 March 2024 — Entry 1
+
+Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
