@@ -764,3 +764,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 05 March 2024 — Entry 2
+
+Set up a private Docker registry and pushed images for GKE deployment.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
