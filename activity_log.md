@@ -770,3 +770,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Set up a private Docker registry and pushed images for GKE deployment.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 05 March 2024 — Entry 3
+
+Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
