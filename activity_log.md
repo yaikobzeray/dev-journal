@@ -776,3 +776,9 @@ Set up a private Docker registry and pushed images for GKE deployment.
 Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 05 March 2024 — Entry 4
+
+Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
