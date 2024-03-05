@@ -758,3 +758,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 05 March 2024 — Entry 1
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
