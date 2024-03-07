@@ -794,3 +794,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Worked on Django authentication: custom user model extending AbstractUser. Added phone number and avatar fields.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 07 March 2024 — Entry 2
+
+Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. Scales down nicely during off-peak hours.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
