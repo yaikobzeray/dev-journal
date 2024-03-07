@@ -800,3 +800,9 @@ Worked on Django authentication: custom user model extending AbstractUser. Added
 Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. Scales down nicely during off-peak hours.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 07 March 2024 — Entry 3
+
+Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
