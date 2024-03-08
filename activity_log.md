@@ -806,3 +806,9 @@ Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. 
 Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 08 March 2024 — Entry 1
+
+Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
