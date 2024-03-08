@@ -812,3 +812,9 @@ Reduced Django Docker image build time by 60% through better layer ordering and 
 Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 08 March 2024 — Entry 2
+
+Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
