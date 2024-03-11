@@ -842,3 +842,9 @@ Implemented Flutter hero animations between screens. Very smooth with minimal co
 Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 11 March 2024 — Entry 4
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
