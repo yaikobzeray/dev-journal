@@ -836,3 +836,9 @@ Watched a talk on distributed systems fundamentals. CAP theorem explained clearl
 Implemented Flutter hero animations between screens. Very smooth with minimal code.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 11 March 2024 — Entry 3
+
+Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
