@@ -860,3 +860,9 @@ Planned the next sprint: breaking down user stories into tasks. Good estimation 
 Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 12 March 2024 — Entry 3
+
+Set up Django with PostgreSQL — practiced database migrations and schema management.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
