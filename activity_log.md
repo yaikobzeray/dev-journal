@@ -854,3 +854,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 12 March 2024 — Entry 2
+
+Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
