@@ -866,3 +866,9 @@ Explored Flutter isolates for heavy computation off the main thread. Prevents UI
 Set up Django with PostgreSQL — practiced database migrations and schema management.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 13 March 2024 — Entry 1
+
+Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
