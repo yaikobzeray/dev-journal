@@ -872,3 +872,9 @@ Set up Django with PostgreSQL — practiced database migrations and schema manag
 Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 13 March 2024 — Entry 2
+
+Explored FastAPI background tasks for sending emails post-request. Keeps response times low.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
