@@ -896,3 +896,9 @@ Worked on Flutter platform channels to call native Android code. Required writin
 Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 14 March 2024 — Entry 2
+
+Explored Web Workers for heavy JSON parsing off the main thread.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
