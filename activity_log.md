@@ -908,3 +908,9 @@ Explored Web Workers for heavy JSON parsing off the main thread.
 Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 14 March 2024 — Entry 4
+
+Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
