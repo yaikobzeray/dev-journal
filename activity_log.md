@@ -902,3 +902,9 @@ Implemented Django form validation with clean_<field> methods. Added custom vali
 Explored Web Workers for heavy JSON parsing off the main thread.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 14 March 2024 — Entry 3
+
+Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
