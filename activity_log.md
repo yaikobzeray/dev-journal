@@ -914,3 +914,9 @@ Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 15 March 2024 — Entry 1
+
+Configured Django caching with Redis. Cache invalidation on model save using signals.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
