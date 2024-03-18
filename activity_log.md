@@ -926,3 +926,9 @@ Configured Django caching with Redis. Cache invalidation on model save using sig
 Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 18 March 2024 — Entry 2
+
+Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
