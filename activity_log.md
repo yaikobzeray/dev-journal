@@ -938,3 +938,9 @@ Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 Read about 12-factor app methodology. Applies well to both Django and Go services.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 20 March 2024 — Entry 1
+
+Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
