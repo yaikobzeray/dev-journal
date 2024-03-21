@@ -956,3 +956,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 21 March 2024 — Entry 3
+
+Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
