@@ -962,3 +962,9 @@ Set up GitHub Actions workflow for CI: lint → test → Docker build → push t
 Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 21 March 2024 — Entry 4
+
+Set up FastAPI dependency injection for DB sessions and auth. Clean pattern — much easier to test than Django's request object.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
