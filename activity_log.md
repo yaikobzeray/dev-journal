@@ -950,3 +950,9 @@ Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boil
 Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 21 March 2024 — Entry 2
+
+Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
