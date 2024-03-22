@@ -980,3 +980,9 @@ Studied Django ORM: select_related vs prefetch_related for query optimization. p
 Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 22 March 2024 — Entry 3
+
+Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
