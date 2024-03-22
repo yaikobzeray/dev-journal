@@ -974,3 +974,9 @@ Set up FastAPI dependency injection for DB sessions and auth. Clean pattern — 
 Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 22 March 2024 — Entry 2
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
