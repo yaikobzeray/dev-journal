@@ -992,3 +992,9 @@ Learned Kubernetes resource requests vs limits. Always set both — prevents noi
 Learned about Docker BuildKit: parallel layer building and improved caching.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 22 March 2024 — Entry 5
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
