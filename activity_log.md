@@ -986,3 +986,9 @@ Set up Django REST Framework serializers with nested relationships. Learned abou
 Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 22 March 2024 — Entry 4
+
+Learned about Docker BuildKit: parallel layer building and improved caching.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
