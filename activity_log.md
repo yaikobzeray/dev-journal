@@ -1004,3 +1004,9 @@ Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 26 March 2024 — Entry 2
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
