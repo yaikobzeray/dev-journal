@@ -998,3 +998,9 @@ Learned about Docker BuildKit: parallel layer building and improved caching.
 Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 26 March 2024 — Entry 1
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
