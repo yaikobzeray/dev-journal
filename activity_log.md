@@ -1010,3 +1010,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 26 March 2024 — Entry 3
+
+Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
