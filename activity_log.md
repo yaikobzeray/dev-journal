@@ -1022,3 +1022,9 @@ Implemented Django pagination using PageNumberPagination. Added custom page_size
 Added request/response middleware to FastAPI for logging and timing headers.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 27 March 2024 — Entry 2
+
+Set up Django with PostgreSQL — practiced database migrations and schema management.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
