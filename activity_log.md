@@ -1034,3 +1034,9 @@ Set up Django with PostgreSQL — practiced database migrations and schema manag
 Read about 12-factor app methodology. Applies well to both Django and Go services.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 28 March 2024 — Entry 2
+
+Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
