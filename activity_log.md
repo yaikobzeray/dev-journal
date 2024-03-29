@@ -1052,3 +1052,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 29 March 2024 — Entry 3
+
+Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
