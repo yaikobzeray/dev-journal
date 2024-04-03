@@ -1094,3 +1094,9 @@ Researched DACH region tech companies for potential opportunities. Strong demand
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 03 April 2024 — Entry 2
+
+Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
