@@ -1100,3 +1100,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 03 April 2024 — Entry 3
+
+Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
