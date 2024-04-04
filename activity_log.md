@@ -1118,3 +1118,9 @@ Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB us
 Researched DACH region tech companies for potential opportunities. Strong demand for full-stack developers.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 04 April 2024 — Entry 3
+
+Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than Django's test client for async code.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
