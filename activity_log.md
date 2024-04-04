@@ -1106,3 +1106,9 @@ Planned the next sprint: breaking down user stories into tasks. Good estimation 
 Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 04 April 2024 — Entry 1
+
+Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
