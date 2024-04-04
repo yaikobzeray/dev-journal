@@ -1130,3 +1130,9 @@ Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than D
 Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 04 April 2024 — Entry 5
+
+Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
