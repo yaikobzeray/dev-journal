@@ -1124,3 +1124,9 @@ Researched DACH region tech companies for potential opportunities. Strong demand
 Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than Django's test client for async code.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 04 April 2024 — Entry 4
+
+Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
