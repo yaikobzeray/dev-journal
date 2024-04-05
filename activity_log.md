@@ -1136,3 +1136,9 @@ Added JWT authentication to FastAPI using python-jose. Implemented access and re
 Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 05 April 2024 — Entry 1
+
+Explored Web Workers for heavy JSON parsing off the main thread.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
