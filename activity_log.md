@@ -1142,3 +1142,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Explored Web Workers for heavy JSON parsing off the main thread.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 05 April 2024 — Entry 2
+
+Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
