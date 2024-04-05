@@ -1148,3 +1148,9 @@ Explored Web Workers for heavy JSON parsing off the main thread.
 Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 05 April 2024 — Entry 3
+
+Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
