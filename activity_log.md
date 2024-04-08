@@ -1178,3 +1178,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Organized the project board and closed stale issues. Good hygiene for the repo.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 08 April 2024 — Entry 4
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
