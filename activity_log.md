@@ -1190,3 +1190,9 @@ Learned kubectl debugging commands: exec, logs, port-forward, describe. Essentia
 Set up FastAPI dependency injection for DB sessions and auth. Clean pattern — much easier to test than Django's request object.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 09 April 2024 — Entry 1
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
