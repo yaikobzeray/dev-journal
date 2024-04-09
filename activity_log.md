@@ -1202,3 +1202,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 09 April 2024 — Entry 3
+
+Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
