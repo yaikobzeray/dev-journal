@@ -1220,3 +1220,9 @@ Added request/response middleware to FastAPI for logging and timing headers.
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 10 April 2024 — Entry 3
+
+Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
