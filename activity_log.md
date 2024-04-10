@@ -1232,3 +1232,9 @@ Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge di
 Read Clean Code by Robert C. Martin — chapter on meaningful names. Small change, huge readability impact.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 10 April 2024 — Entry 5
+
+Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
