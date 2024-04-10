@@ -1214,3 +1214,9 @@ Added flutter_secure_storage for sensitive token storage instead of SharedPrefer
 Added request/response middleware to FastAPI for logging and timing headers.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 10 April 2024 — Entry 2
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
