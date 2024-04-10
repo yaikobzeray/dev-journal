@@ -1208,3 +1208,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 10 April 2024 — Entry 1
+
+Added request/response middleware to FastAPI for logging and timing headers.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
