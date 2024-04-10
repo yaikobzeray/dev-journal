@@ -1226,3 +1226,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 10 April 2024 — Entry 4
+
+Read Clean Code by Robert C. Martin — chapter on meaningful names. Small change, huge readability impact.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
