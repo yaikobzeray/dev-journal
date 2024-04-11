@@ -1262,3 +1262,9 @@ Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager
 Explored Docker volumes for persistent PostgreSQL data across container restarts.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 11 April 2024 — Entry 5
+
+Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
