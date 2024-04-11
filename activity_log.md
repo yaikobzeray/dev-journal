@@ -1238,3 +1238,9 @@ Read Clean Code by Robert C. Martin — chapter on meaningful names. Small chang
 Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 11 April 2024 — Entry 1
+
+Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
