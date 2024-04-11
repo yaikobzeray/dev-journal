@@ -1250,3 +1250,9 @@ Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE node
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 11 April 2024 — Entry 3
+
+Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
