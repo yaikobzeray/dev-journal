@@ -1256,3 +1256,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 11 April 2024 — Entry 4
+
+Explored Docker volumes for persistent PostgreSQL data across container restarts.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
