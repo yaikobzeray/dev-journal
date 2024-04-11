@@ -1244,3 +1244,9 @@ Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager
 Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 11 April 2024 — Entry 2
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
