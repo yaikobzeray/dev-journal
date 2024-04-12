@@ -1286,3 +1286,9 @@ Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB us
 Added request/response middleware to FastAPI for logging and timing headers.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 12 April 2024 — Entry 4
+
+Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
