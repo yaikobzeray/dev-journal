@@ -1268,3 +1268,9 @@ Explored Docker volumes for persistent PostgreSQL data across container restarts
 Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 12 April 2024 — Entry 1
+
+Wrote Django management command for data seeding. Makes onboarding new devs much easier.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
