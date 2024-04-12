@@ -1280,3 +1280,9 @@ Wrote Django management command for data seeding. Makes onboarding new devs much
 Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 12 April 2024 — Entry 3
+
+Added request/response middleware to FastAPI for logging and timing headers.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
