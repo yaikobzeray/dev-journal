@@ -1274,3 +1274,9 @@ Learned Kubernetes resource requests vs limits. Always set both — prevents noi
 Wrote Django management command for data seeding. Makes onboarding new devs much easier.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 12 April 2024 — Entry 2
+
+Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
