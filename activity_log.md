@@ -1298,3 +1298,9 @@ Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 Wrote detailed documentation for the API endpoints. Future me will be grateful.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 15 April 2024 — Entry 1
+
+Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
