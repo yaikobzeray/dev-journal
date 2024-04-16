@@ -1322,3 +1322,9 @@ Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycl
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 16 April 2024 — Entry 4
+
+Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
