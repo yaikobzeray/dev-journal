@@ -1310,3 +1310,9 @@ Learned about JavaScript's event loop, microtask queue, and macrotask queue. Exp
 Wrote Django management command for data seeding. Makes onboarding new devs much easier.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 16 April 2024 — Entry 2
+
+Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycle management.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
