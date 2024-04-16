@@ -1304,3 +1304,9 @@ Wrote detailed documentation for the API endpoints. Future me will be grateful.
 Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 16 April 2024 — Entry 1
+
+Wrote Django management command for data seeding. Makes onboarding new devs much easier.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
