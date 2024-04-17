@@ -1334,3 +1334,9 @@ Added JWT authentication to FastAPI using python-jose. Implemented access and re
 Built a Flutter form with real-time validation using StreamBuilder and Sink pattern.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 17 April 2024 — Entry 1
+
+Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
