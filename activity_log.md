@@ -1364,3 +1364,9 @@ Researched DACH region tech companies for potential opportunities. Strong demand
 Organized the project board and closed stale issues. Good hygiene for the repo.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 19 April 2024 — Entry 3
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
