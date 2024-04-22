@@ -1382,3 +1382,9 @@ Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 22 April 2024 — Entry 3
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
