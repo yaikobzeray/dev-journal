@@ -1388,3 +1388,9 @@ Deployed cert-manager on GKE for automatic TLS certificate management using Let'
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 22 April 2024 — Entry 4
+
+Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
