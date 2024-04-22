@@ -1376,3 +1376,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 22 April 2024 — Entry 2
+
+Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
