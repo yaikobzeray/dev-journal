@@ -1406,3 +1406,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Implemented pull-to-refresh and infinite scroll in Flutter ListView.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 24 April 2024 — Entry 3
+
+Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
