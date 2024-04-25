@@ -1424,3 +1424,9 @@ Set up Docker health checks for the database container before the app tries to c
 Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 25 April 2024 — Entry 3
+
+Set up Flutter Riverpod for dependency injection and state. Prefer it over Provider for large apps.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
