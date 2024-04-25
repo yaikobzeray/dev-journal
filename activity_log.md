@@ -1430,3 +1430,9 @@ Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge di
 Set up Flutter Riverpod for dependency injection and state. Prefer it over Provider for large apps.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 25 April 2024 — Entry 4
+
+Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
