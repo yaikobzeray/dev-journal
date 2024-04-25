@@ -1412,3 +1412,9 @@ Implemented pull-to-refresh and infinite scroll in Flutter ListView.
 Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 25 April 2024 — Entry 1
+
+Set up Docker health checks for the database container before the app tries to connect.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
