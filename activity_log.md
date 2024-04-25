@@ -1418,3 +1418,9 @@ Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 Set up Docker health checks for the database container before the app tries to connect.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 25 April 2024 — Entry 2
+
+Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
