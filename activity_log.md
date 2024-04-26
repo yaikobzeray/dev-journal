@@ -1454,3 +1454,9 @@ Built a Flutter custom widget for animated loading skeletons. Reusable across th
 Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 26 April 2024 — Entry 4
+
+Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
