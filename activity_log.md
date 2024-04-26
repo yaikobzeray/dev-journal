@@ -1436,3 +1436,9 @@ Set up Flutter Riverpod for dependency injection and state. Prefer it over Provi
 Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 26 April 2024 — Entry 1
+
+Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
