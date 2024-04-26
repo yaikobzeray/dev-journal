@@ -1448,3 +1448,9 @@ Implemented debounce and throttle utility functions from scratch. Used debounce 
 Built a Flutter custom widget for animated loading skeletons. Reusable across the whole app.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 26 April 2024 — Entry 3
+
+Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
