@@ -1472,3 +1472,9 @@ Learned kubectl debugging commands: exec, logs, port-forward, describe. Essentia
 Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 29 April 2024 — Entry 2
+
+Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
