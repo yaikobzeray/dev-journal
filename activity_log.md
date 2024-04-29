@@ -1466,3 +1466,9 @@ Explored distroless base images for the Go binary. Zero extra packages = smaller
 Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 29 April 2024 — Entry 1
+
+Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
