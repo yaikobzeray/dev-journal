@@ -1478,3 +1478,9 @@ Studied Django ORM: select_related vs prefetch_related for query optimization. p
 Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 30 April 2024 — Entry 1
+
+Explored Web Workers for heavy JSON parsing off the main thread.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
