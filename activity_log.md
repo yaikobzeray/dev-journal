@@ -1484,3 +1484,9 @@ Configured Kubernetes liveness and readiness probes for all services. No more tr
 Explored Web Workers for heavy JSON parsing off the main thread.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 02 May 2024 — Entry 1
+
+Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
