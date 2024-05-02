@@ -1496,3 +1496,9 @@ Learned about gRPC load balancing strategies: client-side vs proxy-based. Using 
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 02 May 2024 — Entry 3
+
+Built a Flutter custom widget for animated loading skeletons. Reusable across the whole app.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
