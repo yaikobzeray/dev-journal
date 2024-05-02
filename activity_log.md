@@ -1508,3 +1508,9 @@ Built a Flutter custom widget for animated loading skeletons. Reusable across th
 Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 02 May 2024 — Entry 5
+
+Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
