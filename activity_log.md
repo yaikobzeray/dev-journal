@@ -1502,3 +1502,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Built a Flutter custom widget for animated loading skeletons. Reusable across the whole app.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 02 May 2024 — Entry 4
+
+Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
