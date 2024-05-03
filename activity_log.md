@@ -1526,3 +1526,9 @@ Implemented Django pagination using PageNumberPagination. Added custom page_size
 Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 03 May 2024 — Entry 3
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
