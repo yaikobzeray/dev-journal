@@ -1520,3 +1520,9 @@ Added flutter_secure_storage for sensitive token storage instead of SharedPrefer
 Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 03 May 2024 — Entry 2
+
+Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
