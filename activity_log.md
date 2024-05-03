@@ -1532,3 +1532,9 @@ Studied Django ORM: select_related vs prefetch_related for query optimization. p
 Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 03 May 2024 — Entry 4
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
