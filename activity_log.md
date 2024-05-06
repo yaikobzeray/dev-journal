@@ -1544,3 +1544,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Monday, 06 May 2024 — Entry 2
+
+Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
