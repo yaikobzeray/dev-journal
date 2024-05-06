@@ -1550,3 +1550,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 06 May 2024 — Entry 3
+
+Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
