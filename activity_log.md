@@ -1568,3 +1568,9 @@ Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
 Reviewed PR feedback and revised the authentication module. Code review is underrated as a learning tool.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 07 May 2024 — Entry 3
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
