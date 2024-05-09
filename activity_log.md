@@ -1586,3 +1586,9 @@ Generated Go and Dart stubs from proto file using protoc. Dart plugin still need
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 09 May 2024 — Entry 1
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
