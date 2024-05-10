@@ -1604,3 +1604,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Explored JavaScript Proxy for reactive state management without a framework.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 10 May 2024 — Entry 1
+
+Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
