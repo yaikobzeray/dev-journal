@@ -1610,3 +1610,9 @@ Explored JavaScript Proxy for reactive state management without a framework.
 Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 10 May 2024 — Entry 2
+
+Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
