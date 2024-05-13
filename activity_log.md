@@ -1616,3 +1616,9 @@ Implemented debounce and throttle utility functions from scratch. Used debounce 
 Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 13 May 2024 — Entry 1
+
+Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
