@@ -1628,3 +1628,9 @@ Implemented Django pagination using PageNumberPagination. Added custom page_size
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 14 May 2024 — Entry 2
+
+Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
