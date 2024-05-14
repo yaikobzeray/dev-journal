@@ -1634,3 +1634,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 14 May 2024 — Entry 3
+
+Implemented BLoC pattern in Flutter for state management. Event → State flow is very predictable.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
