@@ -1640,3 +1640,9 @@ Learned Docker networking: bridge, host, overlay. Used bridge network for compos
 Implemented BLoC pattern in Flutter for state management. Event → State flow is very predictable.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 15 May 2024 — Entry 1
+
+Set up Django with PostgreSQL — practiced database migrations and schema management.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
