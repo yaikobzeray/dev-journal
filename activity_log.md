@@ -1646,3 +1646,9 @@ Implemented BLoC pattern in Flutter for state management. Event → State flow i
 Set up Django with PostgreSQL — practiced database migrations and schema management.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 15 May 2024 — Entry 2
+
+Explored Docker volumes for persistent PostgreSQL data across container restarts.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
