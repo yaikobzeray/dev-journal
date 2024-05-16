@@ -1670,3 +1670,9 @@ Learned Docker networking: bridge, host, overlay. Used bridge network for compos
 Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 16 May 2024 — Entry 4
+
+Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
