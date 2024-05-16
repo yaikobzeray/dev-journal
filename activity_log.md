@@ -1658,3 +1658,9 @@ Explored Docker volumes for persistent PostgreSQL data across container restarts
 Set up a private Docker registry and pushed images for GKE deployment.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 16 May 2024 — Entry 2
+
+Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
