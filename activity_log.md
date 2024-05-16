@@ -1664,3 +1664,9 @@ Set up a private Docker registry and pushed images for GKE deployment.
 Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 16 May 2024 — Entry 3
+
+Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
