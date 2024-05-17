@@ -1676,3 +1676,9 @@ Configured Kubernetes liveness and readiness probes for all services. No more tr
 Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 17 May 2024 — Entry 1
+
+Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
