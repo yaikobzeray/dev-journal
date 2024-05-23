@@ -1706,3 +1706,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 23 May 2024 — Entry 2
+
+Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
