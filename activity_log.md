@@ -1718,3 +1718,9 @@ Learned about JavaScript's event loop, microtask queue, and macrotask queue. Exp
 Wrote integration tests for gRPC services using a test server and real client stubs.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 23 May 2024 — Entry 4
+
+Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
