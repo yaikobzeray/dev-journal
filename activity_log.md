@@ -1700,3 +1700,9 @@ Researched DACH region tech companies for potential opportunities. Strong demand
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 23 May 2024 — Entry 1
+
+Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
