@@ -1724,3 +1724,9 @@ Wrote integration tests for gRPC services using a test server and real client st
 Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 24 May 2024 — Entry 1
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
