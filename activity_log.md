@@ -1730,3 +1730,9 @@ Deployed cert-manager on GKE for automatic TLS certificate management using Let'
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 24 May 2024 — Entry 2
+
+Set up a private Docker registry and pushed images for GKE deployment.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
