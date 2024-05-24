@@ -1736,3 +1736,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Set up a private Docker registry and pushed images for GKE deployment.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 24 May 2024 — Entry 3
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
