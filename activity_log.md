@@ -1760,3 +1760,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycle management.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 27 May 2024 — Entry 4
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
