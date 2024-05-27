@@ -1742,3 +1742,9 @@ Set up a private Docker registry and pushed images for GKE deployment.
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 27 May 2024 — Entry 1
+
+Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
