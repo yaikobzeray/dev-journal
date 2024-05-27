@@ -1748,3 +1748,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 27 May 2024 — Entry 2
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
