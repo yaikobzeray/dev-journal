@@ -1766,3 +1766,9 @@ Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycl
 Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 28 May 2024 — Entry 1
+
+Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
