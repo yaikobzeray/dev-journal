@@ -1784,3 +1784,9 @@ Explored Flutter web compilation: same codebase rendering in Chrome. Good for in
 Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 29 May 2024 — Entry 3
+
+Configured Docker secrets for managing sensitive env vars instead of plain .env files.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
