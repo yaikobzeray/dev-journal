@@ -1778,3 +1778,9 @@ Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 29 May 2024 — Entry 2
+
+Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
