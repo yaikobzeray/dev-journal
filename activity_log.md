@@ -1790,3 +1790,9 @@ Implemented debounce and throttle utility functions from scratch. Used debounce 
 Configured Docker secrets for managing sensitive env vars instead of plain .env files.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 29 May 2024 — Entry 4
+
+Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
