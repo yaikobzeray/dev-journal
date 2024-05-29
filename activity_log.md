@@ -1772,3 +1772,9 @@ Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in
 Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Wednesday, 29 May 2024 — Entry 1
+
+Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
