@@ -1796,3 +1796,9 @@ Configured Docker secrets for managing sensitive env vars instead of plain .env 
 Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 30 May 2024 — Entry 1
+
+Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
