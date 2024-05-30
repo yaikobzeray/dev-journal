@@ -1802,3 +1802,9 @@ Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage q
 Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 30 May 2024 — Entry 2
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
