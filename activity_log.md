@@ -1820,3 +1820,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 31 May 2024 — Entry 3
+
+Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
