@@ -1832,3 +1832,9 @@ Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenA
 Explored FastAPI WebSocket support. Built a small real-time notification handler.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 31 May 2024 — Entry 5
+
+Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
