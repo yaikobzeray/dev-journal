@@ -1808,3 +1808,9 @@ Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager
 Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 31 May 2024 — Entry 1
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
