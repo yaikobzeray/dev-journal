@@ -1826,3 +1826,9 @@ Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner proj
 Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 31 May 2024 — Entry 4
+
+Explored FastAPI WebSocket support. Built a small real-time notification handler.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
