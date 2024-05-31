@@ -1814,3 +1814,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 31 May 2024 — Entry 2
+
+Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
