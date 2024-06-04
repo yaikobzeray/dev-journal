@@ -1862,3 +1862,9 @@ Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge di
 Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 04 June 2024 — Entry 5
+
+Configured Django CORS headers for the frontend. Used django-cors-headers to whitelist the React dev server.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
