@@ -1844,3 +1844,9 @@ Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner proj
 Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 04 June 2024 — Entry 2
+
+Explored Flutter's ThemeData for consistent dark/light mode theming across the app.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
