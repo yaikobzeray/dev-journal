@@ -1838,3 +1838,9 @@ Explored FastAPI WebSocket support. Built a small real-time notification handler
 Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 04 June 2024 — Entry 1
+
+Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
