@@ -1850,3 +1850,9 @@ Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB us
 Explored Flutter's ThemeData for consistent dark/light mode theming across the app.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 04 June 2024 — Entry 3
+
+Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
