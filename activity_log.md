@@ -1868,3 +1868,9 @@ Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 Configured Django CORS headers for the frontend. Used django-cors-headers to whitelist the React dev server.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 05 June 2024 — Entry 1
+
+Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
