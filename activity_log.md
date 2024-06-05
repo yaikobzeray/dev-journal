@@ -1880,3 +1880,9 @@ Explored distroless base images for the Go binary. Zero extra packages = smaller
 Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 05 June 2024 — Entry 3
+
+Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
