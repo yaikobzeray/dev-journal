@@ -1874,3 +1874,9 @@ Configured Django CORS headers for the frontend. Used django-cors-headers to whi
 Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 05 June 2024 — Entry 2
+
+Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
