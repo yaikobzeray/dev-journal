@@ -1886,3 +1886,9 @@ Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
 Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 05 June 2024 — Entry 4
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
