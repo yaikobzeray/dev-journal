@@ -1904,3 +1904,9 @@ Explored Flutter's ThemeData for consistent dark/light mode theming across the a
 Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Thursday, 06 June 2024 — Entry 3
+
+Wrote detailed documentation for the API endpoints. Future me will be grateful.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
