@@ -1898,3 +1898,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Explored Flutter's ThemeData for consistent dark/light mode theming across the app.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 06 June 2024 — Entry 2
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
