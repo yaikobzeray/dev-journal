@@ -1910,3 +1910,9 @@ Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in
 Wrote detailed documentation for the API endpoints. Future me will be grateful.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 07 June 2024 — Entry 1
+
+Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
