@@ -1928,3 +1928,9 @@ Set up gRPC reflection on the Go server. Makes it testable via grpcurl without k
 Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 11 June 2024 — Entry 3
+
+Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
