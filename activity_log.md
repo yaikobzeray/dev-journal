@@ -1916,3 +1916,9 @@ Wrote detailed documentation for the API endpoints. Future me will be grateful.
 Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 11 June 2024 — Entry 1
+
+Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
