@@ -1934,3 +1934,9 @@ Explored distroless base images for the Go binary. Zero extra packages = smaller
 Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 11 June 2024 — Entry 4
+
+Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
