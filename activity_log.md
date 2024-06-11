@@ -1922,3 +1922,9 @@ Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge di
 Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 11 June 2024 — Entry 2
+
+Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
