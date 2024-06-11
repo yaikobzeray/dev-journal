@@ -1940,3 +1940,9 @@ Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 11 June 2024 — Entry 5
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
