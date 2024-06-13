@@ -1964,3 +1964,9 @@ Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 Set up Docker health checks for the database container before the app tries to connect.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 13 June 2024 — Entry 1
+
+Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
