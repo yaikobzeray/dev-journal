@@ -1976,3 +1976,9 @@ Explored Terraform for GCP infrastructure as code. Much better than clicking thr
 Built a Flutter form with real-time validation using StreamBuilder and Sink pattern.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 14 June 2024 — Entry 2
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
