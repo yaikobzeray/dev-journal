@@ -1982,3 +1982,9 @@ Built a Flutter form with real-time validation using StreamBuilder and Sink patt
 Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 17 June 2024 — Entry 1
+
+Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
