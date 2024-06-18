@@ -1988,3 +1988,9 @@ Learned kubectl debugging commands: exec, logs, port-forward, describe. Essentia
 Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 18 June 2024 — Entry 1
+
+Explored FastAPI background tasks for sending emails post-request. Keeps response times low.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
