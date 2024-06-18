@@ -2000,3 +2000,9 @@ Explored FastAPI background tasks for sending emails post-request. Keeps respons
 Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 18 June 2024 — Entry 3
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
