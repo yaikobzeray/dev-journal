@@ -2006,3 +2006,9 @@ Deployed cert-manager on GKE for automatic TLS certificate management using Let'
 Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Wednesday, 19 June 2024 — Entry 1
+
+Worked on Flutter platform channels to call native Android code. Required writing a simple Kotlin method.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
