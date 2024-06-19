@@ -2012,3 +2012,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Worked on Flutter platform channels to call native Android code. Required writing a simple Kotlin method.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 19 June 2024 — Entry 2
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
