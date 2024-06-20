@@ -2054,3 +2054,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Built a Flutter custom widget for animated loading skeletons. Reusable across the whole app.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 20 June 2024 — Entry 5
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
