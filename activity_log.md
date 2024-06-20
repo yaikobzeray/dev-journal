@@ -2036,3 +2036,9 @@ Explored Web Workers for heavy JSON parsing off the main thread.
 Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 20 June 2024 — Entry 2
+
+Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
