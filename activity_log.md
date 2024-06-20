@@ -2042,3 +2042,9 @@ Planned the next sprint: breaking down user stories into tasks. Good estimation 
 Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 20 June 2024 — Entry 3
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
