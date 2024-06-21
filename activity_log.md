@@ -2060,3 +2060,9 @@ Built a Flutter custom widget for animated loading skeletons. Reusable across th
 Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 21 June 2024 — Entry 1
+
+Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
