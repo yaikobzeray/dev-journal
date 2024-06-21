@@ -2066,3 +2066,9 @@ Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 21 June 2024 — Entry 2
+
+Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
