@@ -2072,3 +2072,9 @@ Explored distroless base images for the Go binary. Zero extra packages = smaller
 Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 21 June 2024 — Entry 3
+
+Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
