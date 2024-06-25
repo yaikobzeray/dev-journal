@@ -2090,3 +2090,9 @@ Implemented Django pagination using PageNumberPagination. Added custom page_size
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 25 June 2024 — Entry 2
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
