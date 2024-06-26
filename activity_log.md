@@ -2096,3 +2096,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 26 June 2024 — Entry 1
+
+Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
