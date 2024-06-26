@@ -2108,3 +2108,9 @@ Planned the next sprint: breaking down user stories into tasks. Good estimation 
 Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 26 June 2024 — Entry 3
+
+Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
