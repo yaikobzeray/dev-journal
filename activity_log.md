@@ -2102,3 +2102,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Wednesday, 26 June 2024 — Entry 2
+
+Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
