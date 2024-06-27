@@ -2114,3 +2114,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 27 June 2024 — Entry 1
+
+Configured Django caching with Redis. Cache invalidation on model save using signals.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
