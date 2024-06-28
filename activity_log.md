@@ -2126,3 +2126,9 @@ Configured Django caching with Redis. Cache invalidation on model save using sig
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 28 June 2024 — Entry 2
+
+Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
