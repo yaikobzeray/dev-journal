@@ -2120,3 +2120,9 @@ Reduced Django Docker image build time by 60% through better layer ordering and 
 Configured Django caching with Redis. Cache invalidation on model save using signals.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 28 June 2024 — Entry 1
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
