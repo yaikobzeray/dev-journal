@@ -2144,3 +2144,9 @@ Learned about JavaScript's event loop, microtask queue, and macrotask queue. Exp
 Worked on Flutter platform channels to call native Android code. Required writing a simple Kotlin method.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 28 June 2024 — Entry 5
+
+Read about 12-factor app methodology. Applies well to both Django and Go services.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
