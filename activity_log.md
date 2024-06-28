@@ -2132,3 +2132,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 28 June 2024 — Entry 3
+
+Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
