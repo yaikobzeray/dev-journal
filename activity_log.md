@@ -2138,3 +2138,9 @@ Generated Go and Dart stubs from proto file using protoc. Dart plugin still need
 Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 28 June 2024 — Entry 4
+
+Worked on Flutter platform channels to call native Android code. Required writing a simple Kotlin method.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
