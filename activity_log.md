@@ -2168,3 +2168,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 01 July 2024 — Entry 4
+
+Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
