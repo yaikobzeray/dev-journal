@@ -2150,3 +2150,9 @@ Worked on Flutter platform channels to call native Android code. Required writin
 Read about 12-factor app methodology. Applies well to both Django and Go services.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Monday, 01 July 2024 — Entry 1
+
+Worked on Flutter platform channels to call native Android code. Required writing a simple Kotlin method.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
