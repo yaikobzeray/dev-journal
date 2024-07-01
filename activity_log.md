@@ -2156,3 +2156,9 @@ Read about 12-factor app methodology. Applies well to both Django and Go service
 Worked on Flutter platform channels to call native Android code. Required writing a simple Kotlin method.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 01 July 2024 — Entry 2
+
+Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
