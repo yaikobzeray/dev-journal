@@ -2162,3 +2162,9 @@ Worked on Flutter platform channels to call native Android code. Required writin
 Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 01 July 2024 — Entry 3
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
