@@ -2192,3 +2192,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Explored Docker volumes for persistent PostgreSQL data across container restarts.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 02 July 2024 — Entry 4
+
+Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
