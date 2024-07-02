@@ -2174,3 +2174,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 02 July 2024 — Entry 1
+
+Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
