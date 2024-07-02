@@ -2186,3 +2186,9 @@ Implemented debounce and throttle utility functions from scratch. Used debounce 
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 02 July 2024 — Entry 3
+
+Explored Docker volumes for persistent PostgreSQL data across container restarts.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
