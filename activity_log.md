@@ -2204,3 +2204,9 @@ Generated Go and Dart stubs from proto file using protoc. Dart plugin still need
 Built a Flutter form with real-time validation using StreamBuilder and Sink pattern.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 03 July 2024 — Entry 1
+
+Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
