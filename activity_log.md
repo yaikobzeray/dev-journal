@@ -2216,3 +2216,9 @@ Explored Django admin customization: list_display, list_filter, search_fields, a
 Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 04 July 2024 — Entry 2
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
