@@ -2228,3 +2228,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 05 July 2024 — Entry 2
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
