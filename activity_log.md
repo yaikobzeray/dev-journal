@@ -2222,3 +2222,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 05 July 2024 — Entry 1
+
+Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
