@@ -2246,3 +2246,9 @@ Set up dio HTTP client with interceptors for token refresh and error handling.
 Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 09 July 2024 — Entry 2
+
+Set up Flutter Riverpod for dependency injection and state. Prefer it over Provider for large apps.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
