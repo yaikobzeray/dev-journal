@@ -2240,3 +2240,9 @@ Set up Django REST Framework serializers with nested relationships. Learned abou
 Set up dio HTTP client with interceptors for token refresh and error handling.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 09 July 2024 — Entry 1
+
+Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
