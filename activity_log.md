@@ -2258,3 +2258,9 @@ Set up Flutter Riverpod for dependency injection and state. Prefer it over Provi
 Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycle management.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 10 July 2024 — Entry 2
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
