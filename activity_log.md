@@ -2270,3 +2270,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 10 July 2024 — Entry 4
+
+Set up FastAPI dependency injection for DB sessions and auth. Clean pattern — much easier to test than Django's request object.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
