@@ -2264,3 +2264,9 @@ Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycl
 Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 10 July 2024 — Entry 3
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
