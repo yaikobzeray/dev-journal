@@ -2276,3 +2276,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Set up FastAPI dependency injection for DB sessions and auth. Clean pattern — much easier to test than Django's request object.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 11 July 2024 — Entry 1
+
+Explored Flutter's ThemeData for consistent dark/light mode theming across the app.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
