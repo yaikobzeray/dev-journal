@@ -2288,3 +2288,9 @@ Explored Flutter's ThemeData for consistent dark/light mode theming across the a
 Researched DACH region tech companies for potential opportunities. Strong demand for full-stack developers.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 12 July 2024 — Entry 1
+
+Set up Django static files with WhiteNoise for production deployment. Much simpler than nginx just for static files.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
