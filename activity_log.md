@@ -2300,3 +2300,9 @@ Set up Django static files with WhiteNoise for production deployment. Much simpl
 Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 16 July 2024 — Entry 2
+
+Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
