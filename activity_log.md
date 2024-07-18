@@ -2306,3 +2306,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 18 July 2024 — Entry 1
+
+Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
