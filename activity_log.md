@@ -2312,3 +2312,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 18 July 2024 — Entry 2
+
+Wrote Django management command for data seeding. Makes onboarding new devs much easier.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
