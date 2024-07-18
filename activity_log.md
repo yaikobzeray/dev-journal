@@ -2318,3 +2318,9 @@ Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async suppo
 Wrote Django management command for data seeding. Makes onboarding new devs much easier.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 18 July 2024 — Entry 3
+
+Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
