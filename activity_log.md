@@ -2348,3 +2348,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Wrote integration tests for gRPC services using a test server and real client stubs.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 19 July 2024 — Entry 5
+
+Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. Scales down nicely during off-peak hours.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
