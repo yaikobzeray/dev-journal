@@ -2342,3 +2342,9 @@ Set up dio HTTP client with interceptors for token refresh and error handling.
 Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 19 July 2024 — Entry 4
+
+Wrote integration tests for gRPC services using a test server and real client stubs.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
