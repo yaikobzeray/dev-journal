@@ -2336,3 +2336,9 @@ Reviewed PR feedback and revised the authentication module. Code review is under
 Set up dio HTTP client with interceptors for token refresh and error handling.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 19 July 2024 — Entry 3
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
