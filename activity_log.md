@@ -2372,3 +2372,9 @@ Explored FastAPI WebSocket support. Built a small real-time notification handler
 Learned about Docker BuildKit: parallel layer building and improved caching.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 24 July 2024 — Entry 4
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
