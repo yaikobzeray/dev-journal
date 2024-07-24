@@ -2360,3 +2360,9 @@ Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. 
 Wrote detailed documentation for the API endpoints. Future me will be grateful.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 24 July 2024 — Entry 2
+
+Explored FastAPI WebSocket support. Built a small real-time notification handler.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
