@@ -2354,3 +2354,9 @@ Wrote integration tests for gRPC services using a test server and real client st
 Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. Scales down nicely during off-peak hours.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 24 July 2024 — Entry 1
+
+Wrote detailed documentation for the API endpoints. Future me will be grateful.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
