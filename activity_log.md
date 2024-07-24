@@ -2366,3 +2366,9 @@ Wrote detailed documentation for the API endpoints. Future me will be grateful.
 Explored FastAPI WebSocket support. Built a small real-time notification handler.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 24 July 2024 — Entry 3
+
+Learned about Docker BuildKit: parallel layer building and improved caching.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
