@@ -2384,3 +2384,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Read about 12-factor app methodology. Applies well to both Django and Go services.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 25 July 2024 — Entry 2
+
+Set up dio HTTP client with interceptors for token refresh and error handling.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
