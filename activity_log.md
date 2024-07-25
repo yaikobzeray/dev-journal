@@ -2402,3 +2402,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Configured Django CORS headers for the frontend. Used django-cors-headers to whitelist the React dev server.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 25 July 2024 — Entry 5
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
