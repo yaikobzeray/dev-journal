@@ -2396,3 +2396,9 @@ Set up dio HTTP client with interceptors for token refresh and error handling.
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 25 July 2024 — Entry 4
+
+Configured Django CORS headers for the frontend. Used django-cors-headers to whitelist the React dev server.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
