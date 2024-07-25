@@ -2390,3 +2390,9 @@ Read about 12-factor app methodology. Applies well to both Django and Go service
 Set up dio HTTP client with interceptors for token refresh and error handling.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 25 July 2024 — Entry 3
+
+Built a small fetch wrapper with retry logic and exponential backoff.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
