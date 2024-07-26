@@ -2408,3 +2408,9 @@ Configured Django CORS headers for the frontend. Used django-cors-headers to whi
 Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 26 July 2024 — Entry 1
+
+Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
