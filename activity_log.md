@@ -2414,3 +2414,9 @@ Learned kubectl debugging commands: exec, logs, port-forward, describe. Essentia
 Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 29 July 2024 — Entry 1
+
+Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
