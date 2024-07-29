@@ -2420,3 +2420,9 @@ Implemented Django form validation with clean_<field> methods. Added custom vali
 Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 29 July 2024 — Entry 2
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
