@@ -2432,3 +2432,9 @@ Set up Django REST Framework serializers with nested relationships. Learned abou
 Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 30 July 2024 — Entry 2
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
