@@ -2444,3 +2444,9 @@ Explored FastAPI's Lifespan context manager for startup/shutdown events (databas
 Added request/response middleware to FastAPI for logging and timing headers.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 30 July 2024 — Entry 4
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
