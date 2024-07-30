@@ -2426,3 +2426,9 @@ Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatib
 Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 30 July 2024 — Entry 1
+
+Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
