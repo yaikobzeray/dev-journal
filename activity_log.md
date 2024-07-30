@@ -2438,3 +2438,9 @@ Learned Docker networking: bridge, host, overlay. Used bridge network for compos
 Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 30 July 2024 — Entry 3
+
+Added request/response middleware to FastAPI for logging and timing headers.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
