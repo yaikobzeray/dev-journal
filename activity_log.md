@@ -2450,3 +2450,9 @@ Added request/response middleware to FastAPI for logging and timing headers.
 Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 30 July 2024 — Entry 5
+
+Optimized Docker layer caching by copying requirements.txt before copying source code.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
