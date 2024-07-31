@@ -2462,3 +2462,9 @@ Optimized Docker layer caching by copying requirements.txt before copying source
 Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Wednesday, 31 July 2024 — Entry 2
+
+Set up Flutter Riverpod for dependency injection and state. Prefer it over Provider for large apps.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
