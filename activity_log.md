@@ -2456,3 +2456,9 @@ Learned kubectl debugging commands: exec, logs, port-forward, describe. Essentia
 Optimized Docker layer caching by copying requirements.txt before copying source code.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 31 July 2024 — Entry 1
+
+Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
