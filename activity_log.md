@@ -2468,3 +2468,9 @@ Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boil
 Set up Flutter Riverpod for dependency injection and state. Prefer it over Provider for large apps.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 31 July 2024 — Entry 3
+
+Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
