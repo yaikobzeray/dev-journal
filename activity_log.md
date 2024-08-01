@@ -2492,3 +2492,9 @@ Implemented custom Django middleware for request logging. Added timing headers t
 Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 01 August 2024 — Entry 4
+
+Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
