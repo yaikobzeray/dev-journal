@@ -2498,3 +2498,9 @@ Watched a talk on distributed systems fundamentals. CAP theorem explained clearl
 Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 01 August 2024 — Entry 5
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
