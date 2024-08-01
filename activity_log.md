@@ -2474,3 +2474,9 @@ Set up Flutter Riverpod for dependency injection and state. Prefer it over Provi
 Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 01 August 2024 — Entry 1
+
+Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
