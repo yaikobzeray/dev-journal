@@ -2486,3 +2486,9 @@ Used Intersection Observer API for lazy-loading images. Native browser API — n
 Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Thursday, 01 August 2024 — Entry 3
+
+Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
