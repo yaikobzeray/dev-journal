@@ -2480,3 +2480,9 @@ Learned about JavaScript's event loop, microtask queue, and macrotask queue. Exp
 Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 01 August 2024 — Entry 2
+
+Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
