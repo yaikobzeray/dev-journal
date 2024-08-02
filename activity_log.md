@@ -2510,3 +2510,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 02 August 2024 — Entry 2
+
+Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
