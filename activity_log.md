@@ -2504,3 +2504,9 @@ Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatib
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 02 August 2024 — Entry 1
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
