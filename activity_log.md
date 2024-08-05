@@ -2516,3 +2516,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 05 August 2024 — Entry 1
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
