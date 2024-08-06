@@ -2534,3 +2534,9 @@ Researched DACH region tech companies for potential opportunities. Strong demand
 Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 06 August 2024 — Entry 3
+
+Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
