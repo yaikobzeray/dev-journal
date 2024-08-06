@@ -2528,3 +2528,9 @@ Set up Django REST Framework serializers with nested relationships. Learned abou
 Researched DACH region tech companies for potential opportunities. Strong demand for full-stack developers.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 06 August 2024 — Entry 2
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
