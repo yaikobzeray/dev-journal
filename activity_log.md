@@ -2540,3 +2540,9 @@ Explored FastAPI's Lifespan context manager for startup/shutdown events (databas
 Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 06 August 2024 — Entry 4
+
+Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
