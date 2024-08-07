@@ -2564,3 +2564,9 @@ Set up dio HTTP client with interceptors for token refresh and error handling.
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 07 August 2024 — Entry 3
+
+Optimized Docker layer caching by copying requirements.txt before copying source code.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
