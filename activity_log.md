@@ -2558,3 +2558,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Set up dio HTTP client with interceptors for token refresh and error handling.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 07 August 2024 — Entry 2
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
