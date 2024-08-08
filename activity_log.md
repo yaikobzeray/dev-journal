@@ -2570,3 +2570,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Optimized Docker layer caching by copying requirements.txt before copying source code.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 08 August 2024 — Entry 1
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
