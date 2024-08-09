@@ -2600,3 +2600,9 @@ Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 09 August 2024 — Entry 4
+
+Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
