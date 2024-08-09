@@ -2606,3 +2606,9 @@ Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager
 Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 09 August 2024 — Entry 5
+
+Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
