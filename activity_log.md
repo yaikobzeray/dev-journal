@@ -2594,3 +2594,9 @@ Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB us
 Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 09 August 2024 — Entry 3
+
+Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
