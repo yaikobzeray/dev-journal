@@ -2582,3 +2582,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Researched DACH region tech companies for potential opportunities. Strong demand for full-stack developers.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 09 August 2024 — Entry 1
+
+Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
