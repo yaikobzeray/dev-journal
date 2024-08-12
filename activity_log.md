@@ -2630,3 +2630,9 @@ Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 12 August 2024 — Entry 4
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
