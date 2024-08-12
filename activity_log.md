@@ -2624,3 +2624,9 @@ Added JWT authentication to FastAPI using python-jose. Implemented access and re
 Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 12 August 2024 — Entry 3
+
+Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
