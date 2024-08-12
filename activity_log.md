@@ -2618,3 +2618,9 @@ Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 12 August 2024 — Entry 2
+
+Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
