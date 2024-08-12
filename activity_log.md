@@ -2612,3 +2612,9 @@ Explored distroless base images for the Go binary. Zero extra packages = smaller
 Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 12 August 2024 — Entry 1
+
+Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
