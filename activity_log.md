@@ -2654,3 +2654,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 13 August 2024 — Entry 3
+
+Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
