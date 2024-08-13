@@ -2648,3 +2648,9 @@ Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async suppo
 Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 13 August 2024 — Entry 2
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
