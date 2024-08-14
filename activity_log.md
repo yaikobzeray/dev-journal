@@ -2678,3 +2678,9 @@ Explored Django admin customization: list_display, list_filter, search_fields, a
 Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 14 August 2024 — Entry 4
+
+Built a small fetch wrapper with retry logic and exponential backoff.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
