@@ -2672,3 +2672,9 @@ Set up Docker health checks for the database container before the app tries to c
 Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 14 August 2024 — Entry 3
+
+Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
