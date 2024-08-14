@@ -2660,3 +2660,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 14 August 2024 — Entry 1
+
+Set up Docker health checks for the database container before the app tries to connect.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
