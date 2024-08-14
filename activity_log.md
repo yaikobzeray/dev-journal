@@ -2666,3 +2666,9 @@ Explored Terraform for GCP infrastructure as code. Much better than clicking thr
 Set up Docker health checks for the database container before the app tries to connect.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 14 August 2024 — Entry 2
+
+Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
