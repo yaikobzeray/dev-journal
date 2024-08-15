@@ -2684,3 +2684,9 @@ Studied Django ORM: select_related vs prefetch_related for query optimization. p
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 15 August 2024 — Entry 1
+
+Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
