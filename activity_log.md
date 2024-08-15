@@ -2690,3 +2690,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 15 August 2024 — Entry 2
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
