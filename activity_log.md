@@ -2696,3 +2696,9 @@ Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner proj
 Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 16 August 2024 — Entry 1
+
+Implemented BLoC pattern in Flutter for state management. Event → State flow is very predictable.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
