@@ -2702,3 +2702,9 @@ Set up Django REST Framework serializers with nested relationships. Learned abou
 Implemented BLoC pattern in Flutter for state management. Event → State flow is very predictable.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 16 August 2024 — Entry 2
+
+Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
