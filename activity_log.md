@@ -2714,3 +2714,9 @@ Implemented custom Django middleware for request logging. Added timing headers t
 Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 20 August 2024 — Entry 1
+
+Configured Django caching with Redis. Cache invalidation on model save using signals.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
