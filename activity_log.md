@@ -2726,3 +2726,9 @@ Configured Django caching with Redis. Cache invalidation on model save using sig
 Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 20 August 2024 — Entry 3
+
+Wrote Django management command for data seeding. Makes onboarding new devs much easier.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
