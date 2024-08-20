@@ -2732,3 +2732,9 @@ Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boil
 Wrote Django management command for data seeding. Makes onboarding new devs much easier.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 20 August 2024 — Entry 4
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
