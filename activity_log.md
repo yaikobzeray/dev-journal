@@ -2720,3 +2720,9 @@ Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-we
 Configured Django caching with Redis. Cache invalidation on model save using signals.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 20 August 2024 — Entry 2
+
+Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
