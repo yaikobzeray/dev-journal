@@ -2738,3 +2738,9 @@ Wrote Django management command for data seeding. Makes onboarding new devs much
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 21 August 2024 — Entry 1
+
+Set up Docker health checks for the database container before the app tries to connect.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
