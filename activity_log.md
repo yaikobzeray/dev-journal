@@ -2744,3 +2744,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Set up Docker health checks for the database container before the app tries to connect.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 21 August 2024 — Entry 2
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
