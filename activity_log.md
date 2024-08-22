@@ -2780,3 +2780,9 @@ Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async suppo
 Explored FastAPI WebSocket support. Built a small real-time notification handler.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 22 August 2024 — Entry 5
+
+Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
