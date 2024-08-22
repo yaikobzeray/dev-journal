@@ -2768,3 +2768,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 22 August 2024 — Entry 3
+
+Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
