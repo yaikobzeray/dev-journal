@@ -2792,3 +2792,9 @@ Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenA
 Explored JavaScript Proxy for reactive state management without a framework.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Monday, 26 August 2024 — Entry 2
+
+Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
