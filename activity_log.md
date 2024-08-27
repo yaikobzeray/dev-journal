@@ -2810,3 +2810,9 @@ Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 Wrote integration tests for gRPC services using a test server and real client stubs.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 27 August 2024 — Entry 3
+
+Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
