@@ -2804,3 +2804,9 @@ Watched a talk on distributed systems fundamentals. CAP theorem explained clearl
 Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 27 August 2024 — Entry 2
+
+Wrote integration tests for gRPC services using a test server and real client stubs.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
