@@ -2816,3 +2816,9 @@ Wrote integration tests for gRPC services using a test server and real client st
 Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Tuesday, 27 August 2024 — Entry 4
+
+Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
