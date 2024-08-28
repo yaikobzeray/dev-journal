@@ -2828,3 +2828,9 @@ Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
 Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 28 August 2024 — Entry 1
+
+Worked on Django authentication: custom user model extending AbstractUser. Added phone number and avatar fields.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
