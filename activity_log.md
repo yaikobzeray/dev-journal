@@ -2852,3 +2852,9 @@ Used Intersection Observer API for lazy-loading images. Native browser API — n
 Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 30 August 2024 — Entry 3
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
