@@ -2846,3 +2846,9 @@ Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-we
 Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 30 August 2024 — Entry 2
+
+Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
