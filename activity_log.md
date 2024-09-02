@@ -2864,3 +2864,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 02 September 2024 — Entry 2
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
