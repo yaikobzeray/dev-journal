@@ -2870,3 +2870,9 @@ Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 02 September 2024 — Entry 3
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
