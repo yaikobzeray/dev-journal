@@ -2876,3 +2876,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 02 September 2024 — Entry 4
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
