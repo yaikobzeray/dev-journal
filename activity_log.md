@@ -2900,3 +2900,9 @@ Explored Flutter web compilation: same codebase rendering in Chrome. Good for in
 Explored JavaScript WeakMap and WeakRef for memory-efficient caching.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 05 September 2024 — Entry 1
+
+Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
