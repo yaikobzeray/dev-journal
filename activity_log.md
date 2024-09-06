@@ -2918,3 +2918,9 @@ Researched DACH region tech companies for potential opportunities. Strong demand
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 06 September 2024 — Entry 2
+
+Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
