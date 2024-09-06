@@ -2924,3 +2924,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 06 September 2024 — Entry 3
+
+Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
