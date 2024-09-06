@@ -2912,3 +2912,9 @@ Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-we
 Researched DACH region tech companies for potential opportunities. Strong demand for full-stack developers.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 06 September 2024 — Entry 1
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
