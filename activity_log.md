@@ -2930,3 +2930,9 @@ Deployed cert-manager on GKE for automatic TLS certificate management using Let'
 Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 09 September 2024 — Entry 1
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
