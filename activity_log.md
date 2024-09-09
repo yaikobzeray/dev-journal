@@ -2948,3 +2948,9 @@ Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE node
 Added request/response middleware to FastAPI for logging and timing headers.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 09 September 2024 — Entry 4
+
+Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
