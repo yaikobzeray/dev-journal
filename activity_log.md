@@ -2954,3 +2954,9 @@ Added request/response middleware to FastAPI for logging and timing headers.
 Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 09 September 2024 — Entry 5
+
+Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
