@@ -2960,3 +2960,9 @@ Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage q
 Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 10 September 2024 — Entry 1
+
+Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
