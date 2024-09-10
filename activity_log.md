@@ -2966,3 +2966,9 @@ Generated Go and Dart stubs from proto file using protoc. Dart plugin still need
 Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 10 September 2024 — Entry 2
+
+Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
