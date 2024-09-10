@@ -2972,3 +2972,9 @@ Used Intersection Observer API for lazy-loading images. Native browser API — n
 Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Tuesday, 10 September 2024 — Entry 3
+
+Read Clean Code by Robert C. Martin — chapter on meaningful names. Small change, huge readability impact.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
