@@ -2978,3 +2978,9 @@ Set up gRPC reflection on the Go server. Makes it testable via grpcurl without k
 Read Clean Code by Robert C. Martin — chapter on meaningful names. Small change, huge readability impact.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 11 September 2024 — Entry 1
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
