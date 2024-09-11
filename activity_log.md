@@ -2990,3 +2990,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Explored Web Workers for heavy JSON parsing off the main thread.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 11 September 2024 — Entry 3
+
+Set up Docker health checks for the database container before the app tries to connect.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
