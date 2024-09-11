@@ -2984,3 +2984,9 @@ Read Clean Code by Robert C. Martin — chapter on meaningful names. Small chang
 Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 11 September 2024 — Entry 2
+
+Explored Web Workers for heavy JSON parsing off the main thread.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
