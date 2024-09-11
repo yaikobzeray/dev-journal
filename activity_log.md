@@ -2996,3 +2996,9 @@ Explored Web Workers for heavy JSON parsing off the main thread.
 Set up Docker health checks for the database container before the app tries to connect.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Wednesday, 11 September 2024 — Entry 4
+
+Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
