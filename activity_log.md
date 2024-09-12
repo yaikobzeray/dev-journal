@@ -3002,3 +3002,9 @@ Set up Docker health checks for the database container before the app tries to c
 Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 12 September 2024 — Entry 1
+
+Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
