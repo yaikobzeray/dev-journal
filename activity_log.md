@@ -3008,3 +3008,9 @@ Explored Flutter web compilation: same codebase rendering in Chrome. Good for in
 Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 12 September 2024 — Entry 2
+
+Wrote Django management command for data seeding. Makes onboarding new devs much easier.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
