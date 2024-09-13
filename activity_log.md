@@ -3020,3 +3020,9 @@ Wrote Django management command for data seeding. Makes onboarding new devs much
 Read about 12-factor app methodology. Applies well to both Django and Go services.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 13 September 2024 — Entry 1
+
+Read about 12-factor app methodology. Applies well to both Django and Go services.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
