@@ -3038,3 +3038,9 @@ Read Clean Code by Robert C. Martin — chapter on meaningful names. Small chang
 Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 13 September 2024 — Entry 4
+
+Built a small fetch wrapper with retry logic and exponential backoff.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
