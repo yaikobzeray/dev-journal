@@ -3056,3 +3056,9 @@ Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
 Set up a private Docker registry and pushed images for GKE deployment.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 16 September 2024 — Entry 3
+
+Worked on Django authentication: custom user model extending AbstractUser. Added phone number and avatar fields.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
