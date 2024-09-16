@@ -3050,3 +3050,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 16 September 2024 — Entry 2
+
+Set up a private Docker registry and pushed images for GKE deployment.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
