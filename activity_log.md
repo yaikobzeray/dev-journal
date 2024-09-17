@@ -3068,3 +3068,9 @@ Worked on Django authentication: custom user model extending AbstractUser. Added
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Tuesday, 17 September 2024 — Entry 2
+
+Read Clean Code by Robert C. Martin — chapter on meaningful names. Small change, huge readability impact.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
