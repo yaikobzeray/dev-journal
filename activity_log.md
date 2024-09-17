@@ -3074,3 +3074,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Read Clean Code by Robert C. Martin — chapter on meaningful names. Small change, huge readability impact.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 17 September 2024 — Entry 3
+
+Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
