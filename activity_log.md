@@ -3080,3 +3080,9 @@ Read Clean Code by Robert C. Martin — chapter on meaningful names. Small chang
 Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 17 September 2024 — Entry 4
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
