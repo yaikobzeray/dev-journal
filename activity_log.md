@@ -3110,3 +3110,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Explored JavaScript Proxy for reactive state management without a framework.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 19 September 2024 — Entry 2
+
+Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
