@@ -3128,3 +3128,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 20 September 2024 — Entry 3
+
+Configured Docker secrets for managing sensitive env vars instead of plain .env files.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
