@@ -3134,3 +3134,9 @@ Learned Kubernetes resource requests vs limits. Always set both — prevents noi
 Configured Docker secrets for managing sensitive env vars instead of plain .env files.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 20 September 2024 — Entry 4
+
+Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
