@@ -3116,3 +3116,9 @@ Explored JavaScript Proxy for reactive state management without a framework.
 Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 20 September 2024 — Entry 1
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
