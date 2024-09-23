@@ -3140,3 +3140,9 @@ Configured Docker secrets for managing sensitive env vars instead of plain .env 
 Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 23 September 2024 — Entry 1
+
+Optimized Docker layer caching by copying requirements.txt before copying source code.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
