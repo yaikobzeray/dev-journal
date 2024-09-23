@@ -3152,3 +3152,9 @@ Optimized Docker layer caching by copying requirements.txt before copying source
 Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 23 September 2024 — Entry 3
+
+Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
