@@ -3164,3 +3164,9 @@ Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB us
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Tuesday, 24 September 2024 — Entry 2
+
+Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
