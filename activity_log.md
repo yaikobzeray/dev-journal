@@ -3158,3 +3158,9 @@ Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatib
 Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 24 September 2024 — Entry 1
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
