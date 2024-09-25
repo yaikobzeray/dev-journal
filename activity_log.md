@@ -3176,3 +3176,9 @@ Watched a talk on distributed systems fundamentals. CAP theorem explained clearl
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 25 September 2024 — Entry 2
+
+Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
