@@ -3188,3 +3188,9 @@ Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 25 September 2024 — Entry 4
+
+Read about 12-factor app methodology. Applies well to both Django and Go services.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
