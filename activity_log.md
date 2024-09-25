@@ -3170,3 +3170,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 25 September 2024 — Entry 1
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
