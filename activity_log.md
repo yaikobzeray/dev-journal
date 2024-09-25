@@ -3182,3 +3182,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 25 September 2024 — Entry 3
+
+Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
