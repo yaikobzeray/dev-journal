@@ -3194,3 +3194,9 @@ Added JWT authentication to FastAPI using python-jose. Implemented access and re
 Read about 12-factor app methodology. Applies well to both Django and Go services.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 26 September 2024 — Entry 1
+
+Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
