@@ -3206,3 +3206,9 @@ Used Intersection Observer API for lazy-loading images. Native browser API — n
 Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 26 September 2024 — Entry 3
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
