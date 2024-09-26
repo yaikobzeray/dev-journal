@@ -3200,3 +3200,9 @@ Read about 12-factor app methodology. Applies well to both Django and Go service
 Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 26 September 2024 — Entry 2
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
