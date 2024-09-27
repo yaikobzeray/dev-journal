@@ -3224,3 +3224,9 @@ Debugged a Docker networking issue: services in different compose files couldn't
 Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 27 September 2024 — Entry 3
+
+Learned about Docker BuildKit: parallel layer building and improved caching.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
