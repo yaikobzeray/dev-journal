@@ -3212,3 +3212,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 27 September 2024 — Entry 1
+
+Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
