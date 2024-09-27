@@ -3218,3 +3218,9 @@ Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in
 Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 27 September 2024 — Entry 2
+
+Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
