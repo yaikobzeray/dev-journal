@@ -3230,3 +3230,9 @@ Explored Flutter isolates for heavy computation off the main thread. Prevents UI
 Learned about Docker BuildKit: parallel layer building and improved caching.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Monday, 30 September 2024 — Entry 1
+
+Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
