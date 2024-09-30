@@ -3236,3 +3236,9 @@ Learned about Docker BuildKit: parallel layer building and improved caching.
 Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 30 September 2024 — Entry 2
+
+Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
