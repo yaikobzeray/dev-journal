@@ -3248,3 +3248,9 @@ Implemented custom Django middleware for request logging. Added timing headers t
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Monday, 30 September 2024 — Entry 4
+
+Set up dio HTTP client with interceptors for token refresh and error handling.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
