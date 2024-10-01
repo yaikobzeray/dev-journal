@@ -3254,3 +3254,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Set up dio HTTP client with interceptors for token refresh and error handling.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 01 October 2024 — Entry 1
+
+Set up Flutter Riverpod for dependency injection and state. Prefer it over Provider for large apps.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
