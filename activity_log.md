@@ -3284,3 +3284,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 02 October 2024 — Entry 2
+
+Explored FastAPI WebSocket support. Built a small real-time notification handler.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
