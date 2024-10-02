@@ -3278,3 +3278,9 @@ Organized the project board and closed stale issues. Good hygiene for the repo.
 Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 02 October 2024 — Entry 1
+
+Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
