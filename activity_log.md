@@ -3314,3 +3314,9 @@ Researched DACH region tech companies for potential opportunities. Strong demand
 Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 03 October 2024 — Entry 5
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
