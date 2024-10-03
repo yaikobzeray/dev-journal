@@ -3290,3 +3290,9 @@ Learned Docker networking: bridge, host, overlay. Used bridge network for compos
 Explored FastAPI WebSocket support. Built a small real-time notification handler.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 03 October 2024 — Entry 1
+
+Added JWT authentication to FastAPI using python-jose. Implemented access and refresh token rotation.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
