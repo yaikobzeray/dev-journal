@@ -3332,3 +3332,9 @@ Generated Go and Dart stubs from proto file using protoc. Dart plugin still need
 Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 04 October 2024 — Entry 3
+
+Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
