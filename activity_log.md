@@ -3320,3 +3320,9 @@ Added JWT authentication to FastAPI using python-jose. Implemented access and re
 Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 04 October 2024 — Entry 1
+
+Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
