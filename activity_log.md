@@ -3326,3 +3326,9 @@ Learned kubectl debugging commands: exec, logs, port-forward, describe. Essentia
 Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 04 October 2024 — Entry 2
+
+Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
