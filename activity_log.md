@@ -3338,3 +3338,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 04 October 2024 — Entry 4
+
+Organized the project board and closed stale issues. Good hygiene for the repo.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
