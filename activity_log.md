@@ -3362,3 +3362,9 @@ Wrote integration tests for gRPC services using a test server and real client st
 Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Tuesday, 08 October 2024 — Entry 2
+
+Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
