@@ -3368,3 +3368,9 @@ Learned about JavaScript's event loop, microtask queue, and macrotask queue. Exp
 Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 08 October 2024 — Entry 3
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
