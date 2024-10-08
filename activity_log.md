@@ -3356,3 +3356,9 @@ Organized the project board and closed stale issues. Good hygiene for the repo.
 Wrote integration tests for gRPC services using a test server and real client stubs.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 08 October 2024 — Entry 1
+
+Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
