@@ -3386,3 +3386,9 @@ Implemented Django pagination using PageNumberPagination. Added custom page_size
 Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Wednesday, 09 October 2024 — Entry 3
+
+Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
