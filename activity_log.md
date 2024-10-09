@@ -3392,3 +3392,9 @@ Planned the next sprint: breaking down user stories into tasks. Good estimation 
 Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 09 October 2024 — Entry 4
+
+Wrote detailed documentation for the API endpoints. Future me will be grateful.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
