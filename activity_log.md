@@ -3410,3 +3410,9 @@ Watched a talk on distributed systems fundamentals. CAP theorem explained clearl
 Configured Django caching with Redis. Cache invalidation on model save using signals.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 10 October 2024 — Entry 2
+
+Explored FastAPI WebSocket support. Built a small real-time notification handler.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
