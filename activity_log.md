@@ -3404,3 +3404,9 @@ Wrote detailed documentation for the API endpoints. Future me will be grateful.
 Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 10 October 2024 — Entry 1
+
+Configured Django caching with Redis. Cache invalidation on model save using signals.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
