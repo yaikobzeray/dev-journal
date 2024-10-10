@@ -3416,3 +3416,9 @@ Configured Django caching with Redis. Cache invalidation on model save using sig
 Explored FastAPI WebSocket support. Built a small real-time notification handler.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 10 October 2024 — Entry 3
+
+Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
