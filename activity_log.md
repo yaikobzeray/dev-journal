@@ -3434,3 +3434,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 11 October 2024 — Entry 3
+
+Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
