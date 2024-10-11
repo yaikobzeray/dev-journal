@@ -3422,3 +3422,9 @@ Explored FastAPI WebSocket support. Built a small real-time notification handler
 Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 11 October 2024 — Entry 1
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
