@@ -3440,3 +3440,9 @@ Debugged a Docker networking issue: services in different compose files couldn't
 Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 11 October 2024 — Entry 4
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
