@@ -3446,3 +3446,9 @@ Planned the next sprint: breaking down user stories into tasks. Good estimation 
 Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 11 October 2024 — Entry 5
+
+Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
