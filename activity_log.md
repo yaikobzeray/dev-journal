@@ -3428,3 +3428,9 @@ Studied Django ORM: select_related vs prefetch_related for query optimization. p
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 11 October 2024 — Entry 2
+
+Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
