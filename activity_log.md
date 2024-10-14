@@ -3476,3 +3476,9 @@ Set up gRPC reflection on the Go server. Makes it testable via grpcurl without k
 Explored Django signals (post_save, pre_delete). Used them to auto-create user profiles on registration.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 14 October 2024 — Entry 5
+
+Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
