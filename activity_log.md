@@ -3464,3 +3464,9 @@ Set up a private Docker registry and pushed images for GKE deployment.
 Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 14 October 2024 — Entry 3
+
+Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
