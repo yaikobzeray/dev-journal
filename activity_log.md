@@ -3458,3 +3458,9 @@ Set up GitHub Actions workflow for CI: lint → test → Docker build → push t
 Set up a private Docker registry and pushed images for GKE deployment.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 14 October 2024 — Entry 2
+
+Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
