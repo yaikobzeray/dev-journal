@@ -3470,3 +3470,9 @@ Set up Kubernetes ConfigMaps and Secrets for environment-based configuration.
 Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 14 October 2024 — Entry 4
+
+Explored Django signals (post_save, pre_delete). Used them to auto-create user profiles on registration.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
