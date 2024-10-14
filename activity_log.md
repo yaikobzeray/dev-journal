@@ -3452,3 +3452,9 @@ Explored FastAPI's Lifespan context manager for startup/shutdown events (databas
 Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 14 October 2024 — Entry 1
+
+Set up a private Docker registry and pushed images for GKE deployment.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
