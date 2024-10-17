@@ -3518,3 +3518,9 @@ Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatib
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Thursday, 17 October 2024 — Entry 2
+
+Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
