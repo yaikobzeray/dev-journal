@@ -3524,3 +3524,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 17 October 2024 — Entry 3
+
+Explored FastAPI WebSocket support. Built a small real-time notification handler.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
