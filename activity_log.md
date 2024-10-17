@@ -3512,3 +3512,9 @@ Explored Web Workers for heavy JSON parsing off the main thread.
 Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 17 October 2024 — Entry 1
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
