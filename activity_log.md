@@ -3530,3 +3530,9 @@ Learned Kubernetes resource requests vs limits. Always set both — prevents noi
 Explored FastAPI WebSocket support. Built a small real-time notification handler.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 21 October 2024 — Entry 1
+
+Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
