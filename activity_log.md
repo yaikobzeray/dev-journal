@@ -3536,3 +3536,9 @@ Explored FastAPI WebSocket support. Built a small real-time notification handler
 Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 21 October 2024 — Entry 2
+
+Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
