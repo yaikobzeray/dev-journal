@@ -3542,3 +3542,9 @@ Learned about JavaScript's event loop, microtask queue, and macrotask queue. Exp
 Used Intersection Observer API for lazy-loading images. Native browser API — no library needed.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 22 October 2024 — Entry 1
+
+Configured FastAPI CORS middleware for the Flutter frontend.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
