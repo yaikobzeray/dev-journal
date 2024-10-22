@@ -3554,3 +3554,9 @@ Configured FastAPI CORS middleware for the Flutter frontend.
 Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 22 October 2024 — Entry 3
+
+Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
