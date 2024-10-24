@@ -3560,3 +3560,9 @@ Implemented Django pagination using PageNumberPagination. Added custom page_size
 Explored distroless base images for the Go binary. Zero extra packages = smaller attack surface.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 24 October 2024 — Entry 1
+
+Learned about Docker BuildKit: parallel layer building and improved caching.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
