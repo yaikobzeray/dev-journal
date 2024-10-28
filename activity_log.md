@@ -3578,3 +3578,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Optimized Docker layer caching by copying requirements.txt before copying source code.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 28 October 2024 — Entry 2
+
+Configured Docker secrets for managing sensitive env vars instead of plain .env files.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
