@@ -3572,3 +3572,9 @@ Learned about Docker BuildKit: parallel layer building and improved caching.
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 28 October 2024 — Entry 1
+
+Optimized Docker layer caching by copying requirements.txt before copying source code.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
