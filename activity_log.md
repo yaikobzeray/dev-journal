@@ -3590,3 +3590,9 @@ Configured Docker secrets for managing sensitive env vars instead of plain .env 
 Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 30 October 2024 — Entry 2
+
+Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
