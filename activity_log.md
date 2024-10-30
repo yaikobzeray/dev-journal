@@ -3602,3 +3602,9 @@ Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boil
 Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 30 October 2024 — Entry 4
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
