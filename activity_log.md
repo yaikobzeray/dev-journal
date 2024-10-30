@@ -3596,3 +3596,9 @@ Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge di
 Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 30 October 2024 — Entry 3
+
+Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
