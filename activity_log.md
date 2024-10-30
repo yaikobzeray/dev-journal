@@ -3608,3 +3608,9 @@ Generated Go and Dart stubs from proto file using protoc. Dart plugin still need
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 30 October 2024 — Entry 5
+
+Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
