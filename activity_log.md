@@ -3620,3 +3620,9 @@ Learned Docker networking: bridge, host, overlay. Used bridge network for compos
 Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 01 November 2024 — Entry 2
+
+Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
