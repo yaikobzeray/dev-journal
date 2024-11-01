@@ -3614,3 +3614,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 01 November 2024 — Entry 1
+
+Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
