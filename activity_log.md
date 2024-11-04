@@ -3644,3 +3644,9 @@ Set up gRPC reflection on the Go server. Makes it testable via grpcurl without k
 Set up Django with PostgreSQL — practiced database migrations and schema management.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 04 November 2024 — Entry 4
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
