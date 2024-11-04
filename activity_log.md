@@ -3632,3 +3632,9 @@ Set up pre-commit hooks: black, isort, flake8 for Python; gofmt for Go.
 Implemented pull-to-refresh and infinite scroll in Flutter ListView.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 04 November 2024 — Entry 2
+
+Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
