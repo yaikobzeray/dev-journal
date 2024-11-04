@@ -3650,3 +3650,9 @@ Set up Django with PostgreSQL — practiced database migrations and schema manag
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 04 November 2024 — Entry 5
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
