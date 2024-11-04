@@ -3638,3 +3638,9 @@ Implemented pull-to-refresh and infinite scroll in Flutter ListView.
 Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 04 November 2024 — Entry 3
+
+Set up Django with PostgreSQL — practiced database migrations and schema management.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
