@@ -3662,3 +3662,9 @@ Learned kubectl debugging commands: exec, logs, port-forward, describe. Essentia
 Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Tuesday, 05 November 2024 — Entry 2
+
+Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
