@@ -3668,3 +3668,9 @@ Explored FastAPI's Lifespan context manager for startup/shutdown events (databas
 Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 05 November 2024 — Entry 3
+
+Set up Docker health checks for the database container before the app tries to connect.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
