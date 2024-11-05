@@ -3656,3 +3656,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 05 November 2024 — Entry 1
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
