@@ -3692,3 +3692,9 @@ Read Clean Code by Robert C. Martin — chapter on meaningful names. Small chang
 Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 06 November 2024 — Entry 4
+
+Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
