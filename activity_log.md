@@ -3680,3 +3680,9 @@ Set up Docker health checks for the database container before the app tries to c
 Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 06 November 2024 — Entry 2
+
+Read Clean Code by Robert C. Martin — chapter on meaningful names. Small change, huge readability impact.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
