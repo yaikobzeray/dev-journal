@@ -3722,3 +3722,9 @@ Implemented debounce and throttle utility functions from scratch. Used debounce 
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 08 November 2024 — Entry 5
+
+Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
