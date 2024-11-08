@@ -3704,3 +3704,9 @@ Learned about JavaScript's event loop, microtask queue, and macrotask queue. Exp
 Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 08 November 2024 — Entry 2
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
