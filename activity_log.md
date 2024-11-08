@@ -3698,3 +3698,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 08 November 2024 — Entry 1
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
