@@ -3740,3 +3740,9 @@ Set up Docker health checks for the database container before the app tries to c
 Researched DACH region tech companies for potential opportunities. Strong demand for full-stack developers.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 11 November 2024 — Entry 3
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
