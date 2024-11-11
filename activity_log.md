@@ -3728,3 +3728,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 11 November 2024 — Entry 1
+
+Set up Docker health checks for the database container before the app tries to connect.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
