@@ -3752,3 +3752,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 11 November 2024 — Entry 5
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
