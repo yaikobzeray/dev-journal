@@ -3764,3 +3764,9 @@ Implemented server-streaming gRPC in Go for real-time notifications. Client rece
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 12 November 2024 — Entry 2
+
+Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
