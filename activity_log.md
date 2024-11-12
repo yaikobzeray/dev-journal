@@ -3770,3 +3770,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 12 November 2024 — Entry 3
+
+Configured Docker secrets for managing sensitive env vars instead of plain .env files.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
