@@ -3806,3 +3806,9 @@ Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than D
 Configured Docker secrets for managing sensitive env vars instead of plain .env files.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 14 November 2024 — Entry 5
+
+Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
