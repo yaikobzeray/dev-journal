@@ -3800,3 +3800,9 @@ Explored FastAPI WebSocket support. Built a small real-time notification handler
 Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than Django's test client for async code.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 14 November 2024 — Entry 4
+
+Configured Docker secrets for managing sensitive env vars instead of plain .env files.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
