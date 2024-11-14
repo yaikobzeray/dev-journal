@@ -3794,3 +3794,9 @@ Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 Explored FastAPI WebSocket support. Built a small real-time notification handler.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 14 November 2024 — Entry 3
+
+Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than Django's test client for async code.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
