@@ -3788,3 +3788,9 @@ Implemented Django pagination using PageNumberPagination. Added custom page_size
 Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 14 November 2024 — Entry 2
+
+Explored FastAPI WebSocket support. Built a small real-time notification handler.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
