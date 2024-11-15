@@ -3824,3 +3824,9 @@ Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. 
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 15 November 2024 — Entry 3
+
+Set up Docker health checks for the database container before the app tries to connect.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
