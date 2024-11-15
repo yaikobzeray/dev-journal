@@ -3812,3 +3812,9 @@ Configured Docker secrets for managing sensitive env vars instead of plain .env 
 Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 15 November 2024 — Entry 1
+
+Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. Scales down nicely during off-peak hours.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
