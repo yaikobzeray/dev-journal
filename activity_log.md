@@ -3848,3 +3848,9 @@ Read about 12-factor app methodology. Applies well to both Django and Go service
 Organized the project board and closed stale issues. Good hygiene for the repo.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 18 November 2024 — Entry 4
+
+Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
