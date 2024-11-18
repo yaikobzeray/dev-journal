@@ -3830,3 +3830,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Set up Docker health checks for the database container before the app tries to connect.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 18 November 2024 — Entry 1
+
+Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
