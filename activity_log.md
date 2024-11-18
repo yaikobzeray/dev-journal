@@ -3836,3 +3836,9 @@ Set up Docker health checks for the database container before the app tries to c
 Implemented server-streaming gRPC in Go for real-time notifications. Client receives events as they happen.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Monday, 18 November 2024 — Entry 2
+
+Read about 12-factor app methodology. Applies well to both Django and Go services.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
