@@ -3854,3 +3854,9 @@ Organized the project board and closed stale issues. Good hygiene for the repo.
 Debugged a Docker networking issue: services in different compose files couldn't communicate. Fixed with shared external network.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 19 November 2024 — Entry 1
+
+Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
