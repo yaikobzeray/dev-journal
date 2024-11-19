@@ -3860,3 +3860,9 @@ Debugged a Docker networking issue: services in different compose files couldn't
 Explored Flutter isolates for heavy computation off the main thread. Prevents UI jitter.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 19 November 2024 — Entry 2
+
+Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
