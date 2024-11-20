@@ -3872,3 +3872,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 20 November 2024 — Entry 1
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
