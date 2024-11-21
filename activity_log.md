@@ -3878,3 +3878,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 21 November 2024 — Entry 1
+
+Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
