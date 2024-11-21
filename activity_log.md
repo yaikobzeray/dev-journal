@@ -3884,3 +3884,9 @@ Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in
 Defined a new .proto file for the user-service. Added request/response message types and a streaming RPC.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Thursday, 21 November 2024 — Entry 2
+
+Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
