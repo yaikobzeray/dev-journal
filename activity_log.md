@@ -3890,3 +3890,9 @@ Defined a new .proto file for the user-service. Added request/response message t
 Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 21 November 2024 — Entry 3
+
+Implemented gRPC interceptors (middleware) for logging and authentication in Go.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
