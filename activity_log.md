@@ -3896,3 +3896,9 @@ Planned the next sprint: breaking down user stories into tasks. Good estimation 
 Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 22 November 2024 — Entry 1
+
+Debugged Django N+1 query problem using django-debug-toolbar. Reduced homepage queries from 47 to 3.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
