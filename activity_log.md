@@ -3914,3 +3914,9 @@ Added flutter_secure_storage for sensitive token storage instead of SharedPrefer
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 26 November 2024 — Entry 1
+
+Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
