@@ -3932,3 +3932,9 @@ Learned Docker networking: bridge, host, overlay. Used bridge network for compos
 Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 27 November 2024 — Entry 2
+
+Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
