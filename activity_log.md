@@ -3968,3 +3968,9 @@ Learned about Docker BuildKit: parallel layer building and improved caching.
 Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 28 November 2024 — Entry 4
+
+Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
