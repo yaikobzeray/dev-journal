@@ -3956,3 +3956,9 @@ Explored Flutter web compilation: same codebase rendering in Chrome. Good for in
 Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 28 November 2024 — Entry 2
+
+Learned about Docker BuildKit: parallel layer building and improved caching.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
