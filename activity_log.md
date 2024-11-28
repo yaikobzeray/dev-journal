@@ -3962,3 +3962,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Learned about Docker BuildKit: parallel layer building and improved caching.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 28 November 2024 — Entry 3
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
