@@ -3950,3 +3950,9 @@ Worked on Flutter platform channels to call native Android code. Required writin
 Explored Flutter web compilation: same codebase rendering in Chrome. Good for internal dashboards.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 28 November 2024 — Entry 1
+
+Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
