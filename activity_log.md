@@ -3986,3 +3986,9 @@ Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE node
 Optimized Docker layer caching by copying requirements.txt before copying source code.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 29 November 2024 — Entry 3
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
