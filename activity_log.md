@@ -3974,3 +3974,9 @@ Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in
 Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 29 November 2024 — Entry 1
+
+Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
