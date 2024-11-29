@@ -3980,3 +3980,9 @@ Refactored async JavaScript code from callbacks to async/await. Much more readab
 Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 29 November 2024 — Entry 2
+
+Optimized Docker layer caching by copying requirements.txt before copying source code.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
