@@ -4004,3 +4004,9 @@ Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE node
 Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 02 December 2024 — Entry 3
+
+Set up Django with PostgreSQL — practiced database migrations and schema management.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
