@@ -3998,3 +3998,9 @@ Set up Django REST Framework serializers with nested relationships. Learned abou
 Built and tagged Docker images for both ARM64 (M-series Mac) and AMD64 (GKE nodes).
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 02 December 2024 — Entry 2
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
