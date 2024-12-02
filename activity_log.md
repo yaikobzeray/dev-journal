@@ -4010,3 +4010,9 @@ Learned kubectl debugging commands: exec, logs, port-forward, describe. Essentia
 Set up Django with PostgreSQL — practiced database migrations and schema management.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 02 December 2024 — Entry 4
+
+Wrote Django management command for data seeding. Makes onboarding new devs much easier.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
