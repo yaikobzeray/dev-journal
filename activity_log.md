@@ -4016,3 +4016,9 @@ Set up Django with PostgreSQL — practiced database migrations and schema manag
 Wrote Django management command for data seeding. Makes onboarding new devs much easier.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 03 December 2024 — Entry 1
+
+Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
