@@ -4046,3 +4046,9 @@ Built a Flutter form with real-time validation using StreamBuilder and Sink patt
 Set up Flutter Riverpod for dependency injection and state. Prefer it over Provider for large apps.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 04 December 2024 — Entry 5
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
