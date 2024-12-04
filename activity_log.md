@@ -4022,3 +4022,9 @@ Wrote Django management command for data seeding. Makes onboarding new devs much
 Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 04 December 2024 — Entry 1
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
