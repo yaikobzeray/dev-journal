@@ -4028,3 +4028,9 @@ Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async suppo
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Wednesday, 04 December 2024 — Entry 2
+
+Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
