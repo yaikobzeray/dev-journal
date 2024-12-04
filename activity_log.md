@@ -4040,3 +4040,9 @@ Generated Go and Dart stubs from proto file using protoc. Dart plugin still need
 Built a Flutter form with real-time validation using StreamBuilder and Sink pattern.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Wednesday, 04 December 2024 — Entry 4
+
+Set up Flutter Riverpod for dependency injection and state. Prefer it over Provider for large apps.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
