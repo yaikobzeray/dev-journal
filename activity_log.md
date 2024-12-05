@@ -4070,3 +4070,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Wrote Django management command for data seeding. Makes onboarding new devs much easier.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 05 December 2024 — Entry 4
+
+Refactored async JavaScript code from callbacks to async/await. Much more readable and easier to debug.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
