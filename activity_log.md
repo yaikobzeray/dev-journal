@@ -4064,3 +4064,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 05 December 2024 — Entry 3
+
+Wrote Django management command for data seeding. Makes onboarding new devs much easier.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
