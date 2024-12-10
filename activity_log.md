@@ -4106,3 +4106,9 @@ Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 Configured Django caching with Redis. Cache invalidation on model save using signals.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 10 December 2024 — Entry 2
+
+Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
