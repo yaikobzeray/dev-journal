@@ -4100,3 +4100,9 @@ Implemented Flutter hero animations between screens. Very smooth with minimal co
 Implemented gRPC interceptors (middleware) for logging and authentication in Go.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 10 December 2024 — Entry 1
+
+Configured Django caching with Redis. Cache invalidation on model save using signals.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
