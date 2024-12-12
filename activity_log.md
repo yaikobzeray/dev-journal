@@ -4118,3 +4118,9 @@ Set up GitHub Actions workflow for CI: lint → test → Docker build → push t
 Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 12 December 2024 — Entry 1
+
+Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
