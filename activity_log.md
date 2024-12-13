@@ -4136,3 +4136,9 @@ Set up dio HTTP client with interceptors for token refresh and error handling.
 Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 13 December 2024 — Entry 3
+
+Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
