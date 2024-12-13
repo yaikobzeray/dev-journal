@@ -4130,3 +4130,9 @@ Studied Django ORM: select_related vs prefetch_related for query optimization. p
 Set up dio HTTP client with interceptors for token refresh and error handling.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 13 December 2024 — Entry 2
+
+Added flutter_secure_storage for sensitive token storage instead of SharedPreferences.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
