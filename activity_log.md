@@ -4124,3 +4124,9 @@ Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-we
 Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 13 December 2024 — Entry 1
+
+Set up dio HTTP client with interceptors for token refresh and error handling.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
