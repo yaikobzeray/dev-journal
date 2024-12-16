@@ -4148,3 +4148,9 @@ Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-we
 Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 16 December 2024 — Entry 1
+
+Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
