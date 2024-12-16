@@ -4160,3 +4160,9 @@ Learned Docker networking: bridge, host, overlay. Used bridge network for compos
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 16 December 2024 — Entry 3
+
+Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. Scales down nicely during off-peak hours.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
