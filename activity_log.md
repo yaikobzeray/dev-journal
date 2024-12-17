@@ -4166,3 +4166,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Configured Kubernetes HPA (Horizontal Pod Autoscaler) based on CPU utilization. Scales down nicely during off-peak hours.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 17 December 2024 — Entry 1
+
+Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
