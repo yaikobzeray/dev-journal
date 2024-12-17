@@ -4178,3 +4178,9 @@ Learned Kubernetes resource requests vs limits. Always set both — prevents noi
 Reviewed PR feedback and revised the authentication module. Code review is underrated as a learning tool.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 17 December 2024 — Entry 3
+
+Explored Django signals (post_save, pre_delete). Used them to auto-create user profiles on registration.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
