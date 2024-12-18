@@ -4184,3 +4184,9 @@ Reviewed PR feedback and revised the authentication module. Code review is under
 Explored Django signals (post_save, pre_delete). Used them to auto-create user profiles on registration.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 18 December 2024 — Entry 1
+
+Wrote detailed documentation for the API endpoints. Future me will be grateful.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
