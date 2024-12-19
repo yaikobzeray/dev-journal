@@ -4190,3 +4190,9 @@ Explored Django signals (post_save, pre_delete). Used them to auto-create user p
 Wrote detailed documentation for the API endpoints. Future me will be grateful.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 19 December 2024 — Entry 1
+
+Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
