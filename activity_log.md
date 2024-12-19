@@ -4202,3 +4202,9 @@ Set up gRPC reflection on the Go server. Makes it testable via grpcurl without k
 Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than Django's test client for async code.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 19 December 2024 — Entry 3
+
+Wrote integration tests for gRPC services using a test server and real client stubs.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
