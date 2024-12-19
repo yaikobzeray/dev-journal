@@ -4196,3 +4196,9 @@ Wrote detailed documentation for the API endpoints. Future me will be grateful.
 Set up gRPC reflection on the Go server. Makes it testable via grpcurl without knowing proto files.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 19 December 2024 — Entry 2
+
+Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than Django's test client for async code.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
