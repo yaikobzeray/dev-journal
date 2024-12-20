@@ -4232,3 +4232,9 @@ Built a small fetch wrapper with retry logic and exponential backoff.
 Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 20 December 2024 — Entry 3
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
