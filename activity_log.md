@@ -4238,3 +4238,9 @@ Learned about JavaScript's event loop, microtask queue, and macrotask queue. Exp
 Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 20 December 2024 — Entry 4
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
