@@ -4250,3 +4250,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Reviewed PR feedback and revised the authentication module. Code review is underrated as a learning tool.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 23 December 2024 — Entry 2
+
+Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
