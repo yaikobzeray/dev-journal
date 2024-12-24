@@ -4286,3 +4286,9 @@ Set up Django static files with WhiteNoise for production deployment. Much simpl
 Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Tuesday, 24 December 2024 — Entry 4
+
+Read about 12-factor app methodology. Applies well to both Django and Go services.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
