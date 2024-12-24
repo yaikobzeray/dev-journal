@@ -4274,3 +4274,9 @@ Set up dio HTTP client with interceptors for token refresh and error handling.
 Explored FastAPI background tasks for sending emails post-request. Keeps response times low.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 24 December 2024 — Entry 2
+
+Set up Django static files with WhiteNoise for production deployment. Much simpler than nginx just for static files.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
