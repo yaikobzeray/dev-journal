@@ -4292,3 +4292,9 @@ Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 Read about 12-factor app methodology. Applies well to both Django and Go services.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 24 December 2024 — Entry 5
+
+Implemented Flutter hero animations between screens. Very smooth with minimal code.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
