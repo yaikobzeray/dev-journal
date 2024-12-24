@@ -4268,3 +4268,9 @@ Learned about Docker BuildKit: parallel layer building and improved caching.
 Set up dio HTTP client with interceptors for token refresh and error handling.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 24 December 2024 — Entry 1
+
+Explored FastAPI background tasks for sending emails post-request. Keeps response times low.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
