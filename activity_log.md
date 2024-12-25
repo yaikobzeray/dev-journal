@@ -4304,3 +4304,9 @@ Implemented Flutter hero animations between screens. Very smooth with minimal co
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 25 December 2024 — Entry 2
+
+Explored Django signals (post_save, pre_delete). Used them to auto-create user profiles on registration.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
