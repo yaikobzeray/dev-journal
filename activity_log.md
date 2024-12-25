@@ -4316,3 +4316,9 @@ Explored Django signals (post_save, pre_delete). Used them to auto-create user p
 Built a Flutter form with real-time validation using StreamBuilder and Sink pattern.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 25 December 2024 — Entry 4
+
+Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
