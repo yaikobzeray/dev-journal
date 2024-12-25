@@ -4298,3 +4298,9 @@ Read about 12-factor app methodology. Applies well to both Django and Go service
 Implemented Flutter hero animations between screens. Very smooth with minimal code.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 25 December 2024 — Entry 1
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
