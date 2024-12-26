@@ -4328,3 +4328,9 @@ Studied Django ORM: select_related vs prefetch_related for query optimization. p
 Set up a private Docker registry and pushed images for GKE deployment.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 26 December 2024 — Entry 2
+
+Set up Docker health checks for the database container before the app tries to connect.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
