@@ -4340,3 +4340,9 @@ Set up Docker health checks for the database container before the app tries to c
 Explored Docker volumes for persistent PostgreSQL data across container restarts.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 26 December 2024 — Entry 4
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
