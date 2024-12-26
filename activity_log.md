@@ -4346,3 +4346,9 @@ Explored Docker volumes for persistent PostgreSQL data across container restarts
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 26 December 2024 — Entry 5
+
+Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
