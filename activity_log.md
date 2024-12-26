@@ -4334,3 +4334,9 @@ Set up a private Docker registry and pushed images for GKE deployment.
 Set up Docker health checks for the database container before the app tries to connect.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 26 December 2024 — Entry 3
+
+Explored Docker volumes for persistent PostgreSQL data across container restarts.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
