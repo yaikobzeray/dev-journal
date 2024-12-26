@@ -4322,3 +4322,9 @@ Built a Flutter form with real-time validation using StreamBuilder and Sink patt
 Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Thursday, 26 December 2024 — Entry 1
+
+Set up a private Docker registry and pushed images for GKE deployment.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
