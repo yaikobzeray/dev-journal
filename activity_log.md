@@ -4358,3 +4358,9 @@ Explored Flutter Navigator 2.0 for declarative routing. More complex than Naviga
 Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 27 December 2024 — Entry 2
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
