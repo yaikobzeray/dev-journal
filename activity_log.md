@@ -4352,3 +4352,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Explored Flutter Navigator 2.0 for declarative routing. More complex than Navigator 1.0 but much more powerful.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 27 December 2024 — Entry 1
+
+Learned about JavaScript's event loop, microtask queue, and macrotask queue. Explains a lot of async behaviour.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
