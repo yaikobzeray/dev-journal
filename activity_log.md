@@ -4364,3 +4364,9 @@ Learned about JavaScript's event loop, microtask queue, and macrotask queue. Exp
 Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 30 December 2024 — Entry 1
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
