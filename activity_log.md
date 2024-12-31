@@ -4388,3 +4388,9 @@ Learned Kubernetes resource requests vs limits. Always set both — prevents noi
 Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 31 December 2024 — Entry 3
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
