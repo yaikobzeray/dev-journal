@@ -4376,3 +4376,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 31 December 2024 — Entry 1
+
+Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
