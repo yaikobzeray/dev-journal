@@ -4382,3 +4382,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Learned Kubernetes resource requests vs limits. Always set both — prevents noisy neighbour problems.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 31 December 2024 — Entry 2
+
+Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatible).
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
