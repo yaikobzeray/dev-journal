@@ -4394,3 +4394,9 @@ Implemented rate limiting on FastAPI endpoints using slowapi (Starlette-compatib
 Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 31 December 2024 — Entry 4
+
+Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
