@@ -4406,3 +4406,9 @@ Implemented custom Django middleware for request logging. Added timing headers t
 Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 01 January 2025 — Entry 2
+
+Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
