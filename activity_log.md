@@ -4400,3 +4400,9 @@ Explored FastAPI's Lifespan context manager for startup/shutdown events (databas
 Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 01 January 2025 — Entry 1
+
+Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
