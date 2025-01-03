@@ -4436,3 +4436,9 @@ Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boil
 Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Friday, 03 January 2025 — Entry 5
+
+Worked on Flutter platform channels to call native Android code. Required writing a simple Kotlin method.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
