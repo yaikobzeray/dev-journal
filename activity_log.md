@@ -4430,3 +4430,9 @@ Optimized Docker layer caching by copying requirements.txt before copying source
 Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 03 January 2025 — Entry 4
+
+Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
