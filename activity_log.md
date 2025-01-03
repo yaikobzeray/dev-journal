@@ -4412,3 +4412,9 @@ Reduced Django Docker image build time by 60% through better layer ordering and 
 Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Friday, 03 January 2025 — Entry 1
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
