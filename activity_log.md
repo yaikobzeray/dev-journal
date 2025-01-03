@@ -4418,3 +4418,9 @@ Implemented debounce and throttle utility functions from scratch. Used debounce 
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 03 January 2025 — Entry 2
+
+Optimized Docker layer caching by copying requirements.txt before copying source code.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
