@@ -4424,3 +4424,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Optimized Docker layer caching by copying requirements.txt before copying source code.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Friday, 03 January 2025 — Entry 3
+
+Explored class-based views (CBV) vs function-based views (FBV). CBVs reduce boilerplate for CRUD operations.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
