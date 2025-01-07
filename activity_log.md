@@ -4442,3 +4442,9 @@ Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async suppo
 Worked on Flutter platform channels to call native Android code. Required writing a simple Kotlin method.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 07 January 2025 — Entry 1
+
+Wrote Django management command for data seeding. Makes onboarding new devs much easier.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
