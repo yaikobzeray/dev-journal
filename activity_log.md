@@ -4454,3 +4454,9 @@ Wrote Django management command for data seeding. Makes onboarding new devs much
 Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 08 January 2025 — Entry 2
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
