@@ -4472,3 +4472,9 @@ Implemented BLoC pattern in Flutter for state management. Event → State flow i
 Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-web-proxy to translate HTTP/1.1.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 08 January 2025 — Entry 5
+
+Configured Django CORS headers for the frontend. Used django-cors-headers to whitelist the React dev server.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
