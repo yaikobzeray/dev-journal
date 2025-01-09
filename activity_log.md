@@ -4490,3 +4490,9 @@ Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycl
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Thursday, 09 January 2025 — Entry 3
+
+Built a small fetch wrapper with retry logic and exponential backoff.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
