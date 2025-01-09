@@ -4478,3 +4478,9 @@ Explored gRPC-web for the Flutter web client. Requires an Envoy proxy or grpc-we
 Configured Django CORS headers for the frontend. Used django-cors-headers to whitelist the React dev server.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Thursday, 09 January 2025 — Entry 1
+
+Set up FastAPI with SQLAlchemy async sessions. Required careful session lifecycle management.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
