@@ -4496,3 +4496,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 10 January 2025 — Entry 1
+
+Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
