@@ -4514,3 +4514,9 @@ Implemented pull-to-refresh and infinite scroll in Flutter ListView.
 Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 13 January 2025 — Entry 2
+
+Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
