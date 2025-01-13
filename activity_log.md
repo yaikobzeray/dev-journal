@@ -4520,3 +4520,9 @@ Learned kubectl debugging commands: exec, logs, port-forward, describe. Essentia
 Deployed cert-manager on GKE for automatic TLS certificate management using Let's Encrypt.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 13 January 2025 — Entry 3
+
+Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
