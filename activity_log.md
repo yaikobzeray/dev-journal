@@ -4526,3 +4526,9 @@ Deployed cert-manager on GKE for automatic TLS certificate management using Let'
 Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in one command.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 13 January 2025 — Entry 4
+
+Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
