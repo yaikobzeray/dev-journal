@@ -4508,3 +4508,9 @@ Watched a talk on distributed systems fundamentals. CAP theorem explained clearl
 Implemented pull-to-refresh and infinite scroll in Flutter ListView.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 13 January 2025 — Entry 1
+
+Learned kubectl debugging commands: exec, logs, port-forward, describe. Essential for production debugging.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
