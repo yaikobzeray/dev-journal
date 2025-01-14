@@ -4532,3 +4532,9 @@ Set up docker-compose for local dev: Django, PostgreSQL, Redis, and Nginx all in
 Set up Vite for a vanilla JS project. ES module support out of the box — no webpack config needed.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Tuesday, 14 January 2025 — Entry 1
+
+Read about 12-factor app methodology. Applies well to both Django and Go services.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
