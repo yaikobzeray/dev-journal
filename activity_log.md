@@ -4538,3 +4538,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Read about 12-factor app methodology. Applies well to both Django and Go services.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 14 January 2025 — Entry 2
+
+Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
