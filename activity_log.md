@@ -4544,3 +4544,9 @@ Read about 12-factor app methodology. Applies well to both Django and Go service
 Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenAPI docs at /docs are incredibly useful.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 14 January 2025 — Entry 3
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
