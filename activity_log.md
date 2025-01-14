@@ -4550,3 +4550,9 @@ Built a FastAPI endpoint with Pydantic v2 schema validation. The automatic OpenA
 Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 14 January 2025 — Entry 4
+
+Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
