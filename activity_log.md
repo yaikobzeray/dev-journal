@@ -4562,3 +4562,9 @@ Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Wednesday, 15 January 2025 — Entry 2
+
+Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
