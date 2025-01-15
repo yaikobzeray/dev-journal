@@ -4556,3 +4556,9 @@ Set up Django REST Framework serializers with nested relationships. Learned abou
 Set up FastAPI health check endpoint for Kubernetes liveness/readiness probes.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 15 January 2025 — Entry 1
+
+Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB using python:3.12-slim.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
