@@ -4568,3 +4568,9 @@ Wrote a multi-stage Dockerfile for the Django app. Final image is under 120MB us
 Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async support; DRF wins on built-in features.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Wednesday, 15 January 2025 — Entry 3
+
+Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
