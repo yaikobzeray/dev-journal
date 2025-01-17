@@ -4592,3 +4592,9 @@ Learned Docker networking: bridge, host, overlay. Used bridge network for compos
 Configured FastAPI CORS middleware for the Flutter frontend.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Friday, 17 January 2025 — Entry 4
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
