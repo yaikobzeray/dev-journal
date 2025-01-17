@@ -4580,3 +4580,9 @@ Watched a talk on distributed systems fundamentals. CAP theorem explained clearl
 Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 17 January 2025 — Entry 2
+
+Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
