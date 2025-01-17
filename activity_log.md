@@ -4586,3 +4586,9 @@ Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge di
 Learned Docker networking: bridge, host, overlay. Used bridge network for compose service discovery.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 17 January 2025 — Entry 3
+
+Configured FastAPI CORS middleware for the Flutter frontend.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
