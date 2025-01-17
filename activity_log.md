@@ -4598,3 +4598,9 @@ Configured FastAPI CORS middleware for the Flutter frontend.
 Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 17 January 2025 — Entry 5
+
+Built a small fetch wrapper with retry logic and exponential backoff.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
