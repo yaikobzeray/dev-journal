@@ -4574,3 +4574,9 @@ Compared FastAPI vs Django REST Framework: FastAPI wins on speed and async suppo
 Watched a talk on distributed systems fundamentals. CAP theorem explained clearly.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 17 January 2025 — Entry 1
+
+Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
