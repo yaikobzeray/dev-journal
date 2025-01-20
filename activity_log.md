@@ -4616,3 +4616,9 @@ Generated Go and Dart stubs from proto file using protoc. Dart plugin still need
 Implemented Django pagination using PageNumberPagination. Added custom page_size query param support.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Monday, 20 January 2025 — Entry 3
+
+Wrote detailed documentation for the API endpoints. Future me will be grateful.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
