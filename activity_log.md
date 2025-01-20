@@ -4604,3 +4604,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Built a small fetch wrapper with retry logic and exponential backoff.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Monday, 20 January 2025 — Entry 1
+
+Generated Go and Dart stubs from proto file using protoc. Dart plugin still needs improvements for optional fields.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
