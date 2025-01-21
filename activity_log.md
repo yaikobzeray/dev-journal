@@ -4652,3 +4652,9 @@ Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 21 January 2025 — Entry 4
+
+Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
