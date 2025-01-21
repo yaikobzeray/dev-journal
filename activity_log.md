@@ -4646,3 +4646,9 @@ Explored Terraform for GCP infrastructure as code. Much better than clicking thr
 Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 21 January 2025 — Entry 3
+
+Learned the difference between gRPC deadlines and timeouts. Deadlines propagate across service boundaries.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
