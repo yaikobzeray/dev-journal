@@ -4634,3 +4634,9 @@ Set up Vite for a vanilla JS project. ES module support out of the box — no we
 Implemented async FastAPI routes using asyncio. Non-blocking I/O makes a huge difference for high-traffic APIs.
 
 *Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 21 January 2025 — Entry 1
+
+Explored Terraform for GCP infrastructure as code. Much better than clicking through the console.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
