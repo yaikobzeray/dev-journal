@@ -4658,3 +4658,9 @@ Learned the difference between gRPC deadlines and timeouts. Deadlines propagate 
 Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 22 January 2025 — Entry 1
+
+Set up Django with PostgreSQL — practiced database migrations and schema management.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
