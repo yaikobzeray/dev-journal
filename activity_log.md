@@ -4676,3 +4676,9 @@ Explored JavaScript Proxy for reactive state management without a framework.
 Organized the project board and closed stale issues. Good hygiene for the repo.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Thursday, 23 January 2025 — Entry 2
+
+Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
