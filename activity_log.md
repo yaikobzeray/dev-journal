@@ -4682,3 +4682,9 @@ Organized the project board and closed stale issues. Good hygiene for the repo.
 Set up Django REST Framework serializers with nested relationships. Learned about depth parameter and SerializerMethodField.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 24 January 2025 — Entry 1
+
+Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than Django's test client for async code.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
