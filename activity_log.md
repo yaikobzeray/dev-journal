@@ -4694,3 +4694,9 @@ Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than D
 Reviewed PR feedback and revised the authentication module. Code review is underrated as a learning tool.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Monday, 27 January 2025 — Entry 2
+
+Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
