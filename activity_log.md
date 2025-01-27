@@ -4688,3 +4688,9 @@ Set up Django REST Framework serializers with nested relationships. Learned abou
 Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than Django's test client for async code.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Monday, 27 January 2025 — Entry 1
+
+Reviewed PR feedback and revised the authentication module. Code review is underrated as a learning tool.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
