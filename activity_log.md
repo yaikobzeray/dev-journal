@@ -4700,3 +4700,9 @@ Reviewed PR feedback and revised the authentication module. Code review is under
 Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Monday, 27 January 2025 — Entry 3
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
