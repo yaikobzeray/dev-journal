@@ -4718,3 +4718,9 @@ Explored FastAPI's Lifespan context manager for startup/shutdown events (databas
 Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 28 January 2025 — Entry 3
+
+Explored Django admin customization: list_display, list_filter, search_fields, and inlines. Admin is really powerful out of the box.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
