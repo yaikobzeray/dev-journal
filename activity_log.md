@@ -4712,3 +4712,9 @@ Studied JavaScript closures and the module pattern. Important for encapsulation 
 Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 28 January 2025 — Entry 2
+
+Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
