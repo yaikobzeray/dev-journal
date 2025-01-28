@@ -4706,3 +4706,9 @@ Reduced Django Docker image build time by 60% through better layer ordering and 
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Tuesday, 28 January 2025 — Entry 1
+
+Explored FastAPI's Lifespan context manager for startup/shutdown events (database pool init, etc.).
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
