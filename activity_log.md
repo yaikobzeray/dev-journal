@@ -4748,3 +4748,9 @@ Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller team
 Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Wednesday, 29 January 2025 — Entry 5
+
+Explored Docker volumes for persistent PostgreSQL data across container restarts.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
