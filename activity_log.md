@@ -4736,3 +4736,9 @@ Wrote integration tests for gRPC services using a test server and real client st
 Configured Django caching with Redis. Cache invalidation on model save using signals.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Wednesday, 29 January 2025 — Entry 3
+
+Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
