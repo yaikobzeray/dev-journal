@@ -4742,3 +4742,9 @@ Configured Django caching with Redis. Cache invalidation on model save using sig
 Explored GKE Autopilot vs Standard clusters. Autopilot is great for smaller teams who don't want to manage nodes.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 29 January 2025 — Entry 4
+
+Implemented custom Django middleware for request logging. Added timing headers to track slow endpoints.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
