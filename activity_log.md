@@ -4766,3 +4766,9 @@ Built a custom Flutter painter widget for drawing SVG-like shapes on canvas.
 Built a Flutter form with real-time validation using StreamBuilder and Sink pattern.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Thursday, 30 January 2025 — Entry 3
+
+Set up Flutter Riverpod for dependency injection and state. Prefer it over Provider for large apps.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
