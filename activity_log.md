@@ -4784,3 +4784,9 @@ Researched DACH region tech companies for potential opportunities. Strong demand
 Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 31 January 2025 — Entry 2
+
+Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than Django's test client for async code.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
