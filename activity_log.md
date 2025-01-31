@@ -4778,3 +4778,9 @@ Set up Flutter Riverpod for dependency injection and state. Prefer it over Provi
 Researched DACH region tech companies for potential opportunities. Strong demand for full-stack developers.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 31 January 2025 — Entry 1
+
+Reduced Django Docker image build time by 60% through better layer ordering and .dockerignore.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
