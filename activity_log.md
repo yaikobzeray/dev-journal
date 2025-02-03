@@ -4796,3 +4796,9 @@ Wrote FastAPI unit tests using pytest and httpx AsyncClient. Much cleaner than D
 Explored Flutter's ThemeData for consistent dark/light mode theming across the app.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Monday, 03 February 2025 — Entry 2
+
+Configured Kubernetes liveness and readiness probes for all services. No more traffic to crash-looping pods.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
