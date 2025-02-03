@@ -4808,3 +4808,9 @@ Configured Kubernetes liveness and readiness probes for all services. No more tr
 Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Monday, 03 February 2025 — Entry 4
+
+Implemented Django form validation with clean_<field> methods. Added custom validators for phone numbers.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
