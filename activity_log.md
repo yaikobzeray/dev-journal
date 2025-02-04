@@ -4844,3 +4844,9 @@ Set up GitHub Actions workflow for CI: lint → test → Docker build → push t
 Explored Web Workers for heavy JSON parsing off the main thread.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [FLUTTER] Tuesday, 04 February 2025 — Entry 5
+
+Implemented BLoC pattern in Flutter for state management. Event → State flow is very predictable.
+
+*Logged at 16:36 · Commit #5 · Salzburg, Austria 🇦🇹*
