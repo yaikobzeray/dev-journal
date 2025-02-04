@@ -4838,3 +4838,9 @@ Planned the next sprint: breaking down user stories into tasks. Good estimation 
 Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Tuesday, 04 February 2025 — Entry 4
+
+Explored Web Workers for heavy JSON parsing off the main thread.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
