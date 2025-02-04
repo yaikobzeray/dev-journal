@@ -4832,3 +4832,9 @@ Implemented custom Django middleware for request logging. Added timing headers t
 Planned the next sprint: breaking down user stories into tasks. Good estimation practice.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [DEVOPS] Tuesday, 04 February 2025 — Entry 3
+
+Set up GitHub Actions workflow for CI: lint → test → Docker build → push to GCR.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
