@@ -4874,3 +4874,9 @@ Set up a private Docker registry and pushed images for GKE deployment.
 Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Thursday, 06 February 2025 — Entry 3
+
+Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
