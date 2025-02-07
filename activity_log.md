@@ -4880,3 +4880,9 @@ Configured Flutter CI/CD pipeline with GitHub Actions for automated builds.
 Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager on K8s.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [GENERAL] Friday, 07 February 2025 — Entry 1
+
+Read about 12-factor app methodology. Applies well to both Django and Go services.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
