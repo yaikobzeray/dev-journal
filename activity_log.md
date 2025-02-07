@@ -4886,3 +4886,9 @@ Configured TLS for gRPC in production. Used Let's Encrypt certs via cert-manager
 Read about 12-factor app methodology. Applies well to both Django and Go services.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Friday, 07 February 2025 — Entry 2
+
+Explored Docker volumes for persistent PostgreSQL data across container restarts.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
