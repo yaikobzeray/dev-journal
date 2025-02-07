@@ -4892,3 +4892,9 @@ Read about 12-factor app methodology. Applies well to both Django and Go service
 Explored Docker volumes for persistent PostgreSQL data across container restarts.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [FASTAPI] Friday, 07 February 2025 — Entry 3
+
+Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
