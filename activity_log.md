@@ -4898,3 +4898,9 @@ Explored Docker volumes for persistent PostgreSQL data across container restarts
 Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner project structure.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Friday, 07 February 2025 — Entry 4
+
+Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
