@@ -4904,3 +4904,9 @@ Used FastAPI's APIRouter to modularize endpoints by feature domain. Cleaner proj
 Studied JavaScript closures and the module pattern. Important for encapsulation without classes.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DOCKER] Tuesday, 11 February 2025 — Entry 1
+
+Set up a private Docker registry and pushed images for GKE deployment.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
