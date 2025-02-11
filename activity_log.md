@@ -4922,3 +4922,9 @@ Updated all project dependencies and reviewed changelogs for breaking changes.
 Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
 
 *Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Tuesday, 11 February 2025 — Entry 4
+
+Configured Django CORS headers for the frontend. Used django-cors-headers to whitelist the React dev server.
+
+*Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
