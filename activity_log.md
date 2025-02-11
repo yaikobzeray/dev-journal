@@ -4916,3 +4916,9 @@ Set up a private Docker registry and pushed images for GKE deployment.
 Updated all project dependencies and reviewed changelogs for breaking changes.
 
 *Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
+
+## [GRPC] Tuesday, 11 February 2025 — Entry 3
+
+Learned about gRPC load balancing strategies: client-side vs proxy-based. Using Kubernetes services for now.
+
+*Logged at 16:36 · Commit #3 · Salzburg, Austria 🇦🇹*
