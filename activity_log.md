@@ -4934,3 +4934,9 @@ Configured Django CORS headers for the frontend. Used django-cors-headers to whi
 Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
 
 *Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
+
+## [JAVASCRIPT] Wednesday, 12 February 2025 — Entry 2
+
+Implemented debounce and throttle utility functions from scratch. Used debounce for search input.
+
+*Logged at 16:36 · Commit #2 · Salzburg, Austria 🇦🇹*
