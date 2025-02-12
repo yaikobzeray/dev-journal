@@ -4928,3 +4928,9 @@ Learned about gRPC load balancing strategies: client-side vs proxy-based. Using 
 Configured Django CORS headers for the frontend. Used django-cors-headers to whitelist the React dev server.
 
 *Logged at 16:36 · Commit #4 · Salzburg, Austria 🇦🇹*
+
+## [DJANGO] Wednesday, 12 February 2025 — Entry 1
+
+Studied Django ORM: select_related vs prefetch_related for query optimization. prefetch_related works better for M2M and reverse FK relations.
+
+*Logged at 16:36 · Commit #1 · Salzburg, Austria 🇦🇹*
